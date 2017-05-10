@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localizationDictionary culture="tr">
+  <texts>
+    <text name="Sum" value="Toplam" />
+    <text name="RequiredFieldWarning" value="Bu alanı doldurunuz." />
+    <text name="HomePage" value="Ana sayfa" />
+    <text name="UserManagement" value="Kullanıcı Yönetimi" />
+    <text name="RecognitionList" value="Tanıma Listesi" />
+    <text name="InvalidUsernameAndOrPassword" value="Kullanıcı adı ve/veya şifre hatalıdır." />
+    <text name="RecognitionListFilters" value="Tanıma Listesi Filtreleri" />
+    <text name="RecognitionListGetRecognitions" value="Tanıma Listesini Getirme" />
+    <text name="RecognitionListExportRecognitions" value="Excel Çıktısı Alma" />
+    <text name="RecognitionListDownloadAudioFile" value="Ses Dosyası İndirme" />
+    <text name="RecognitionListDownloadAudioFiles" value="Ses Dosyalarını Toplu İndirme" />
+    <text name="RecognitionListPlayAudioFile" value="Ses Dosyası Çalma" />
+    <text name="AgentResponseTimeoutAsSeconds" value="Asistan Zaman Aşımı Süresi (sn)" />
+    <text name="AgentZas" value="Asistan ZAS" />
+    <text name="DictionaryList" value="asdasdasd" />
+    <text name="asdasd" value="Yönetim" />
+    <text name="Dashboard" value="Genel Görünüm" />
+    <text name="Deleting" value="Siliniyor..." />
+    <text name="TreeDeleted" value="Ağaç silindi." />
+    <text name="TreeList" value="Ağaç Listesi" />
+    <text name="MatchScore" value="Eşleşme Skoru" />
+    <text name="CreateNewTree" value="Yeni Ağaç Oluştur" />
+    <text name="PreviousVersions" value="Önceki Sürümler" />
+    <text name="TreeName" value="Ağaç Adı" />
+    <text name="CodeName" value="Kod Adı" />
+    <text name="Version" value="Sürüm" />
+    <text name="GroupName" value="Grup Adı" />
+    <text name="RoleName" value="Rol Adı" />
+    <text name="RoleId" value="Rol Id" />
+    <text name="IpAddress" value="Ip Adresi" />
+    <text name="ReturnOldBackup" value="Bir Önceki Dil Modeline Geri Dön" />
+    <text name="Edit" value="Düzenle" />
+    <text name="CreateNewVersion" value="Yeni Sürüm Oluştur" />
+    <text name="DeleteTree" value="Ağacı Sil" />
+    <text name="DeleteTreeConfirmation" value="“{0}” adlı ağaç silinecektir. Devam etmek istediğinizden emin misiniz?" />
+    <text name="Saving" value="Kaydediliyor..." />
+    <text name="SavedSuccessfully" value="Başarıyla kaydedildi." />
+    <text name="NewVersion" value="Yeni Sürüm" />
+    <text name="NewVersionCreated" value="Yeni sürüm başarıyla oluşturuldu." />
+    <text name="NewTreeCreated" value="Yeni ağaç başarıyla oluşturuldu." />
+    <text name="EditTree" value="Ağaç Düzenle" />
+    <text name="EnterSimulationFilter" value="Test araması için bir ifade giriniz..." />
+    <text name="Search" value="Ara" />
+    <text name="ShowOtherFilters" value="Diğer Filtreleri Göster" />
+    <text name="HideOtherFilters" value="Diğer Filtreleri Gizle" />
+    <text name="DateRange" value="Tarih Aralığı" />
+    <text name="Tree" value="Ağaç" />
+    <text name="TreeNode" value="Ağaç Dalı" />
+    <text name="TreeVersion" value="Ağaç Versiyonu" />
+    <text name="TreeNodeNotFound" value="Verilen bilgilere uygun bir ağaç dalı bulunmamaktadır." />
+    <text name="All" value="Hepsi" />
+    <text name="ResultText" value="Sonuç Metni" />
+    <text name="PleaseEnterResultText" value="Tanım metni giriniz..." />
+    <text name="RecognitionConfidence" value="Tanıma Güvenilirliği" />
+    <text name="ConfidenceStartCannotBeSmallerThanZeroAndBiggerThan99" value="Tanıma güvenilirliği alt sınırı 0 ile 99 arasında olmalıdır." />
+    <text name="ConfidenceEndCannotBeSmallerThanOneAndBiggerThan100" value="Tanıma güvenilirliği üst sınırı 1 ile 100 arasında olmalıdır." />
+    <text name="EnterNumberThatBetween0to100" value="0 ile 100 arası bir değer giriniz..." />
+    <text name="AgentSelection" value="Asistan Seçimi" />
+    <text name="Report" value="Raporla" />
+    <text name="ExportToExcel" value="Excel Formatında Aktar" />
+    <text name="PleaseEnterACallerNumber" value="Arayan Numara giriniz..." />
+    <text name="PleaseEnterACustomerNo" value="Son Kullanıcı No giriniz..." />
+    <text name="PleaseEnterACallId" value="Çağrı Id giriniz..." />
+    <text name="AgentDecisionType" value="Asistan Karar Tipi" />
+    <text name="DecisionType" value="Karar Tipi" />
+    <text name="DecisionTypes" value="Karar Tipi" />
+    <text name="CallerNumber" value="Arayan Numara" />
+    <text name="CustomerNo" value="Son Kullanıcı No" />
+    <text name="CallId" value="Çağrı Id" />
+    <text name="CustomerConfirm" value="Son Kullanıcı Onayı" />
+    <text name="MenuChanged" value="Menü Değişimi" />
+    <text name="TextChanged" value="Metin Değişimi" />
+    <text name="Date" value="Tarih" />
+    <text name="CreationTime" value="Tarih" />
+    <text name="MatchResultText" value="Eşleşme Sonucu" />
+    <text name="Duration" value="Süre" />
+    <text name="EndTime" value="Bitiş" />
+    <text name="StartTime" value="Başlangıç" />
+    <text name="StateId" value="Durum Id" />
+    <text name="AgentId" value="Asistan Id" />
+    <text name="AgentNameAndSurname" value="Asistan" />
+    <text name="AgentActionText" value="Asistan Kararı" />
+    <text name="AgentDurationAsMilliseconds" value="Asistan Süresi (sn)" />
+    <text name="CustomerId" value="Son Kullanıcı No" />
+    <text name="IsCustomerConfirmed" value="Son Kullanıcı Onayı" />
+    <text name="IsMenuChanged" value="Menü Değişimi" />
+    <text name="IsTextChanged" value="Metin Değişimi" />
+    <text name="Agent" value="Asistan" />
+    <text name="AgentDecision" value="Asistan Kararı" />
+    <text name="AgentResponseTime" value="Asistan Süresi" />
+    <text name="SrText" value="Tanıma Metni" />
+    <text name="SrConfidence" value="TG" />
+    <text name="Telephone" value="Tel" />
+    <text name="Calling" value="Aranıyor..." />
+    <text name="Reported" value="Raporlandı" />
+    <text name="ReportResult" value="Rapor Sonucu" />
+    <text name="MatchSr" value="Eşleşme (Önce)" />
+    <text name="MatchResult" value="Eşleşme (Sonra)" />
+    <text name="NotAsked" value="Sorulmadı" />
+    <text name="Rejected" value="Reddedildi" />
+    <text name="Accepted" value="Onaylandı" />
+    <text name="Changed" value="Değişmiş" />
+    <text name="NotChanged" value="Değişmemiş" />
+    <text name="AgentAction_Forbidden" value="Yasaklı" />
+    <text name="AgentAction_NonExistent" value="Tanımlı Değil" />
+    <text name="AgentAction_Noisy" value="Ortam Gürültülü" />
+    <text name="AgentAction_MultiChoice" value="Çoklu Seçim" />
+    <text name="AgentAction_AgentTimeout" value="Asistan Zaman Aşımı" />
+    <text name="AgentAction_NoAgent" value="Asistan Yok" />
+    <text name="AgentAction_QueueWaitTimeout" value="Asistan Yok (Kuyrukta bekleme zaman aşımı)" />
+    <text name="AgentAction_ErrorMessage" value="Hata Mesajı" />
+    <text name="AgentAction_ConnectionLost" value="Bağlantı Koptu" />
+    <text name="AgentAction_Home" value="Ana Menü" />
+    <text name="AgentAction_Repeat" value="Tekrar" />
+    <text name="AgentAction_Help" value="Yardım" />
+    <text name="AgentAction_OKChanged" value="OK Değişti" />
+    <text name="AgentAction_OKUnchanged" value="OK Değişmedi" />
+    <text name="AgentAction_OkMenuUnchanged" value="Menü Değişmedi" />
+    <text name="AgentAction_OkTextUnchanged" value="Metin Değişmedi" />
+    <text name="AgentAction_OkMenuAndTextUnchanged" value="Menü ve Metin Değişmedi" />
+    <text name="AgentAction_OKMenuChanged" value="Menü Değişti" />
+    <text name="AgentAction_OKTextChanged" value="Metin Değişti" />
+    <text name="AgentAction_OKMenuAndTextChanged" value="Menü ve Metin Değişti" />
+    <text name="AgentAction_TakeOver" value="Devral" />
+    <text name="AgentAction_NotUsed" value="Asistan Kullanılmadı" />
+    <text name="AgentState_Available" value="Uygun" />
+    <text name="AgentState_Break" value="Molada" />
+    <text name="AgentState_Busy" value="Meşgul" />
+    <text name="AgentState_Logout" value="Sistem Dışında" />
+    <text name="AgentState_TotalLogin" value="Toplam Giriş" />
+    <text name="YouCannotDeleteRootNode" value="Silme işlemi, ağacın kök menüsü dışındaki dallar için geçerli bir işlemdir." />
+    <text name="RootNode" value="Ana Menü" />
+    <text name="SrConfidenceEndSmallerThanStart" value="Tanıma Güvenilirliği bitiş değeri başlangıç değerinden büyük olmalıdır." />
+    <text name="EndDateCanNotSmallerThanStartDate" value="Bitiş Tarihi, Başlangıç Tarihinden büyük olmalıdır." />
+    <text name="Unknown" value="Bilinmiyor" />
+    <text name="ReachedToLeaf" value="Tam Eşleşme" />
+    <text name="NeedToSearchAgain" value="Ara Eşleşme" />
+    <text name="NeedToSelectParent" value="Çoklu Eşleşme" />
+    <text name="NoMatch" value="Eşleşme Yok" />
+    <text name="CallSteeringWcfServiceNotRunning" value="Arama servisine bağlantı sağlanamadı. WCF servisinin etkin şekilde çalıştığından emin olunuz." />
+    <text name="CancelSearch" value="Aramayı İptal Et" />
+    <text name="MenuTree" value="Menü Ağacı" />
+    <text name="CollapseExpand" value="Hepsini Aç/Hepsini Kapat" />
+    <text name="SearchTerm" value="Kavram ara..." />
+    <text name="EditMenu" value="Menü Düzenleme" />
+    <text name="Terms" value="Kavramlar" />
+    <text name="EnterTerm" value="Bir kavram giriniz..." />
+    <text name="Add" value="Ekle" />
+    <text name="NoData" value="- Hiç kayıt bulunmamaktadır -" />
+    <text name="DeleteSelected" value="Seçilenleri Sil" />
+    <text name="Phrases" value="İfadeler" />
+    <text name="EnterPhrase" value="Bir ifade giriniz..." />
+    <text name="DynamicFields" value="Dinamik Alanlar" />
+    <text name="DynamicField" value="Dinamik Alan" />
+    <text name="AddDynamicFieldMinMax" value="Dinamik Alan Minimum-Maksimum Değeri" />
+    <text name="CouldNotBeEnteredDynamicFieldSmallerMinValueThanMaxValue" value="Dinamik alanın minimum değeri maksimum değerinden küçük olmalıdır." />
+    <text name="MinimumShort" value="Min" />
+    <text name="MaximumShort" value="Mak" />
+    <text name="ChooseDynamicField" value="- Dinamik alan seçiniz -" />
+    <text name="AddedBefore" value="“{0}” daha önce eklenmiş." />
+    <text name="BeingMoved" value="“{0}” taşınıyor..." />
+    <text name="Moved" value="“{0}” başarıyla taşındı." />
+    <text name="AddSubMenu" value="Alt Menü Ekle" />
+    <text name="DeleteMenu" value="“{0}” menüsü silinecektir. Devam etmek istediğinizden emin misiniz?" />
+    <text name="MenuDeleted" value="“{0}” menüsü silindi." />
+    <text name="ExactMatch" value="Tam Eşleşme" />
+    <text name="ParentMatch" value="Ara Eşleşme" />
+    <text name="MultipleMatch" value="Çoklu Eşleşme" />
+    <text name="ERROR" value="Hata" />
+    <text name="ErrorOccured" value="Bir hata oluştu." />
+    <text name="MatchingTerm" value="Eşleşen Kavram" />
+    <text name="MatchingScore" value="Eşleşme Skoru" />
+    <text name="MenuCode" value="Menü Kodu" />
+    <text name="MenuId" value="Menü Id" />
+    <text name="SlotValues" value="Slot değerleri" />
+    <text name="SlotRepeatCounts" value="Slot tekrar sayısı" />
+    <text name="NoSearchResult" value="“{0}” aramasına ait eşleşme sağlanmadı." />
+    <text name="NotAddedToDictionary" value="Şu sözcük(ler) sözlükte bulunmamaktadır: “{0}”. Yeni sözcük eklemeden önce, örnek cümledeki sözcükler eklenmelidir." />
+    <text name="LanguageModel" value="Dil Modeli" />
+    <text name="AlreadyAdded" value="“{0}” zaten bulunmaktadır." />
+    <text name="Collapse" value="Hepsini Kapat" />
+    <text name="Expand" value="Hepsini Aç" />
+    <text name="SearchResult" value="Arama Sonucu" />
+    <text name="SearchText" value="Aranan Metin" />
+    <text name="ExpectedMenuCode" value="Beklenen Menü Kodu" />
+    <text name="Result" value="Sonuç" />
+    <text name="MatchingTerm2" value="Eşleşen Kavram" />
+    <text name="LeafNode" value="Uç Menü" />
+    <text name="ResultScore" value="Başarı Skoru" />
+    <text name="MatchCount" value="Menü Eşleşme Sayısı" />
+    <text name="MultipleMatches" value="Çoklu Eşleşmeler" />
+    <text name="ValidationRequired" value="Bu alanı doldurunuz." />
+    <text name="ValidationMinLength" value="En az {0} karakter olmalıdır." />
+    <text name="ValidationMaxLength" value="En fazla {0} karakter olabilir." />
+    <text name="ValidationMin" value="En az {0} olmalıdır." />
+    <text name="ValidationMax" value="En fazla {0} olabilir." />
+    <text name="Cancel" value="İptal" />
+    <text name="Save" value="Kaydet" />
+    <text name="MULTIPLE_MATCH" value="Çoklu Eşleşme" />
+    <text name="EXACT_MATCH" value="Tam Eşleşme" />
+    <text name="PARENT_MATCH" value="Ara Eşleşme" />
+    <text name="NO_MATCH" value="Eşleşme Yok" />
+    <text name="OnlyExcelFile" value="Sadece xlsx uzantılı Excel dosyaları yüklenebilmektedir." />
+    <text name="Matching" value="Eşleşen" />
+    <text name="Properties" value="Özellikler" />
+    <text name="Searching" value="Aranıyor..." />
+    <text name="NodeText" value="Menü Metni" />
+    <text name="BulkSearch" value="Toplu Arama" />
+    <text name="Percent" value="%{0}" />
+    <text name="PleaseWait" value="Lütfen bekleyiniz..." />
+    <text name="DownloadBulkSearchTemplate" value="Boş Kontrol Listesi Şablonu İndir" />
+    <text name="DownloadDefaultChecklist" value="Varsayılan Kontrol Listesi İndir" />
+    <text name="UploadUserChecklist" value="Kullanıcı Kontrol Listesi Yükle" />
+    <text name="UploadDefaultChecklist" value="Varsayılan Kontrol Listesi Yükle" />
+    <text name="UploadBulkSearchExcel" value="Kontrol Exceli Yükle" />
+    <text name="ClearSearchServiceCache" value="Önbelleği Temizle" />
+    <text name="Delete" value="Sil" />
+    <text name="TreeResourceAlreadyExists" value="Bu ağaca ait kaynak dosyalar zaten bulunmaktadır. {0}" />
+    <text name="TreeResourceNotExists" value="Bu ağaca ait kaynak dosyalar bulunamadı. {0}" />
+    <text name="AcousticModelsAlreadyExists" value="Bu ağaca ait akustik model dosyaları zaten bulunmaktadır. {0}" />
+    <text name="AcousticModelsNotExists" value="Bu ağaca ait akustik model dosyaları bulunamadı. {0}" />
+    <text name="AgentResponseTimeout" value="Asistanın cevap verme süresi (sn)" />
+    <text name="NonAvailableAgentTimeout" value="Tüm asistanların dolu olduğu durumda kuyrukta bekleme süresi (sn)" />
+    <text name="IsAgentUsageUpperConfidenceThresholdVisible" value="Asistana yönlendirme için güvenilirlik alt limiti yok" />
+    <text name="AgentUsageUpperConfidenceThreshold" value="Asistana yönlendirme için tanıma güvenilirliğinin alt limiti (0-100)" />
+    <text name="ShouldUseAgent" value="Asistana yönlendirme yapılsın" />
+    <text name="RecognitionConfidenceThreshold" value="Tanıma güvenilirlik eşiği (0-100)" />
+    <text name="RecognitionLanguage" value="Tanıma dili" />
+    <text name="TrainingSentenceRepetitionType" value="Eğitim cümlelerinin tekrar sayısı" />
+    <text name="NewSubMenu" value="Yeni Menü Ekle" />
+    <text name="SuccessfullyAdded" value="Başarıyla eklendi." />
+    <text name="UpdateSubMenu" value="Menü Güncelle" />
+    <text name="SuccessfullyUpdated" value="Başarıyla güncellendi." />
+    <text name="MenuText" value="Menü Metni" />
+    <text name="MoveNodeConfirmMessage" value="“{0}” menüsü “{1}” altına taşınacaktır. Onaylıyor musunuz?" />
+    <text name="GrammarName" value="Model Adı" />
+    <text name="GrammarList" value="Model Listesi" />
+    <text name="NoVersion" value="Sürüm yok" />
+    <text name="RoleManagement" value="Rol Yönetimi" />
+    <text name="InvalidGrammarName" value="Geçersiz bir model adı belirttiniz. Türkçe karakter, boşluk veya noktalama işareti içermeyen bir ad vererek yeniden deneyiniz." />
+    <text name="AgentStatistics" value="Asistan İstatistikleri" />
+    <text name="RecognitionStatistics" value="Tanıma İstatistikleri" />
+    <text name="DailyRecognitionStatistics" value="Günlük Tanıma Sayıları" />
+    <text name="HourlyRecognitionStatistics" value="Saatlik Tanıma Sayıları" />
+    <text name="Select" value="Seçiniz" />
+    <text name="CsDateTimeFormatNoTimeOnlyDate" value="DD.MM.yyyy" />
+    <text name="Apply" value="Uygula" />
+    <text name="Starting" value="Başlangıç" />
+    <text name="Finish" value="Bitiş" />
+    <text name="Start" value="Başlangıç" />
+    <text name="End" value="Bitiş" />
+    <text name="CustomRange" value="Özel aralık" />
+    <text name="Today" value="Bugün" />
+    <text name="Yesterday" value="Dün" />
+    <text name="LastXDays" value="Son {0} gün" />
+    <text name="1Week" value="Bir hafta" />
+    <text name="1Month" value="Bir ay" />
+    <text name="ThisMonth" value="Bu ay" />
+    <text name="LastMonth" value="Geçen ay" />
+    <text name="Sun" value="Pa" />
+    <text name="Mon" value="Pt" />
+    <text name="Tue" value="Sa" />
+    <text name="Wed" value="Ça" />
+    <text name="Thu" value="Pe" />
+    <text name="Fri" value="Cu" />
+    <text name="Sat" value="Ct" />
+    <text name="Jan" value="Ocak" />
+    <text name="Feb" value="Şubat" />
+    <text name="Mar" value="Mart" />
+    <text name="Apr" value="Nisan" />
+    <text name="May" value="Mayıs" />
+    <text name="Jun" value="Haziran" />
+    <text name="Jul" value="Temmuz" />
+    <text name="Aug" value="Ağustos" />
+    <text name="Sep" value="Eylül" />
+    <text name="Oct" value="Ekim" />
+    <text name="Nov" value="Kasım" />
+    <text name="Dec" value="Aralık" />
+    <text name="Email" value="E-posta" />
+    <text name="AgentSettings" value="Asistan Durum Ayarları" />
+    <text name="EmailReports" value="E-posta Raporu" />
+    <text name="EmailReportSettings" value="E-posta Rapor Ayarları" />
+    <text name="SettingsSuccessfullySaved" value="Ayarlar başarıyla kaydedildi." />
+    <text name="Domain" value="Etki Alanı" />
+    <text name="AgentStatus" value="Asistan Durumları" />
+    <text name="LdapAddress" value="LDAP adresi" />
+    <text name="AllTrees" value="Tüm Ağaçlar" />
+    <text name="ChooseTreeForNodeStatistics" value="Yönlendirme sayılarını görmek için bir ağaç seçiniz." />
+    <text name="RecognitionCount" value="Tanıma Sayısı" />
+    <text name="Total" value="Toplam" />
+    <text name="MatchType" value="Eşleşme Tipi" />
+    <text name="Count" value="Adet" />
+    <text name="CountPostfix" value="Adet" />
+    <text name="DailyRecognitionCount" value="Günlük Tanıma" />
+    <text name="MatchStatistics" value="Eşleşme Dağılımı" />
+    <text name="ExactMatchStatistics" value="Tam Eşleşme Dağılımı" />
+    <text name="NodeStatisticsChart" value="Menü Yönlendirme Sayıları" />
+    <text name="AgentActionStatistics" value="Karar Tipi Sayıları" />
+    <text name="AgentActionType" value="Asistan Karar Tipi" />
+    <text name="AgentTimeoutStatistics" value="Zaman Aşım İstatistiği" />
+    <text name="TimeoutCount" value="Zaman Aşımı Sayısı" />
+    <text name="RecognitionBasis" value="Tanıma Bazında" />
+    <text name="StateBasis" value="Durum Bazında" />
+    <text name="RecognitionBasisAgentStatistics" value="Tanıma Bazında Asistan İstatistikleri" />
+    <text name="StateBasisAgentStatistics" value="Durum Bazında Asistan İstatistikleri" />
+    <text name="Monitoring" value="İzleme" />
+    <text name="TryingToConnect" value="Bağlanmaya çalışıyor..." />
+    <text name="OnlineAgents" value="Çevrimiçi Asistanlar" />
+    <text name="ActiveRecognitionCount" value="Aktif Tanıma Sayısı" />
+    <text name="Average" value="Ortalama" />
+    <text name="ThereIsNoOnlineAgentInTheSystem" value="Çevrimiçi asistan bulunmamaktadır." />
+    <text name="CannotSupportThisLanguage" value="Bu dil şimdilik desteklenmemektedir." />
+    <text name="IllegalCharactersFoundInPronunciation" value="Söyleniş, bu dil için alfabede bulunmayan geçersiz karakter(ler) içermektedir." />
+    <text name="Approximately" value="yaklaşık" />
+    <text name="ViewTreePermission" value="Ağaç Görüntüleme" />
+    <text name="EditTreePermission" value="Ağaç Düzenleme" />
+    <text name="LanguageModelEditPermission" value="Dil Modeli Düzenleme" />
+    <text name="CreateNewVersionPermission" value="Yeni Sürüm Oluşturma" />
+    <text name="DeleteTreePermission" value="Ağaç Silme" />
+    <text name="TreeDetailPermission" value="Ağaç" />
+    <text name="CreateTreePermission" value="Yeni Ağaç Oluşturma" />
+    <text name="ExportTreeToExcelPermission" value="Ağaç Excel Çıktısı Alma" />
+    <text name="ExportTreeToExcel" value="Ağacı Excel Formatında Aktar" />
+    <text name="State" value="Durum" />
+    <text name="AgentStateCreatedSuccessfully" value="Asistan durumu başarıyla eklendi." />
+    <text name="AgentStateUpdatedSuccessfully" value="Asistan durumu başarıyla güncellendi." />
+    <text name="AddNewAgentState" value="Yeni Asistan Durumu Ekle" />
+    <text name="AddAgentState" value="Asistan Durumu Ekle" />
+    <text name="AreYouSureToDeleteAgentState" value="{0} adlı asistan durumunu silmek istediğinizden emin misiniz?" />
+    <text name="IsTest" value="Test Mi?" />
+    <text name="Yes" value="Evet" />
+    <text name="No" value="Hayır" />
+    <text name="LanguageModelFilescantUpdated" value="Dil modeli dosyaları güncellenemedi." />
+    <text name="LanguageModelFilescantFound" value="Dil modeli dosyaları bulunamadı." />
+    <text name="SeamlessAgentResult" value="Asistan Çıktısı" />
+    <text name="LastUpdateDate" value="Son Güncelleme Tarihi: " />
+    <text name="PathNotExists" value="Yol Bulunamadı: " />
+    <text name="EnterPronounciationTermOrExampleSentence" value="Kavram, söyleyiş ya da örnek cümle belirtiniz." />
+    <text name="DisplayName" value="Görünen Ad" />
+    <text name="RoleUpdatedSuccessfully" value="Rol güncellendi." />
+    <text name="MatchedNodesTextsBefore" value="Eşleşme (Menü-Önce)" />
+    <text name="MatchedNodesTextsAfter" value="Eşleşme (Menü-Sonra)" />
+    <text name="ExtIdsBefore" value="Eşleşen Menü Kodu (Önce)" />
+    <text name="ExtIdsAfter" value="Eşleşen Menü Kodu (Sonra)" />
+    <text name="AgentActions" value="Asistan Karar Tipleri" />
+    <text name="AgentActionSettings" value="Asistan Karar Tipi Ayarları" />
+    <text name="AddAgentAction" value="Asistan Karar Tipi Ekle" />
+    <text name="AgentStateDeleted" value="Asistan durumu başarıyla silindi." />
+    <text name="AddNewAgentAction" value="Yeni Asistan Karar Tipi Ekle" />
+    <text name="AgentActionCreatedSuccessfully" value="Asistan karar tipi başarıyla eklendi." />
+    <text name="AgentActionUpdatedSuccessfully" value="Asistan karar tipi başarıyla güncellendi." />
+    <text name="AreYouSureToDeleteAgentAction" value="{0} adlı asistan seçimini silmek istediğinizden emin misiniz?" />
+    <text name="AgentActionDeleted" value="Asistan karar tipi başarıyla silindi." />
+    <text name="AgentStateAddedBefore" value="Asistan durumu zaten bulunmaktadır." />
+    <text name="AgentActionAddedBefore" value="Asistan karar tipi zaten bulunmaktadır." />
+    <text name="LanguageModelUpdated" value="Dil modeli güncellendi." />
+    <text name="PleaseEnterAWord" value="Bir sözcük giriniz." />
+    <text name="TrainingSentencesCannotBeEmpty" value="Örnek cümle giriniz." />
+    <text name="PronounciationCannotBeEmpty" value="Söyleniş giriniz." />
+    <text name="PronunciationWriteRules" value="Söylenişler arasında “,” veya “;” kullanabilirsiniz." />
+    <text name="TrainingSentences" value="Örnek Cümleler" />
+    <text name="PleaseProvideRecognitionId" value="Bir Tanıma Id değeri giriniz..." />
+    <text name="OperationErrorTryAnotherTime" value="Bir hata oluştu. Daha sonra tekrar deneyiniz." />
+    <text name="FileNotFound" value="Dosya bulunamadı." />
+    <text name="DictionaryManagement" value="Sözlük Yönetimi" />
+    <text name="EnterAtLeastTwoCharsForSearch" value="Aramak için en az iki harf giriniz..." />
+    <text name="EnterAtLeastOneCharsForSearch" value="Aramak için en az bir harf giriniz..." />
+    <text name="ThereIsNoResult" value="Sonuç bulunamadı..." />
+    <text name="Word" value="Sözcük" />
+    <text name="Pronunciation" value="Söyleniş" />
+    <text name="Term" value="Kavram" />
+    <text name="LanguageModelUpdate" value="Dil Modeli Güncelleme" />
+    <text name="Updating" value="Güncelleniyor..." />
+    <text name="TreeIdMustBeBiggerThanZero" value="Ağaç Id değeri sıfırdan büyük olmalıdır." />
+    <text name="WordCanNotBeEmpty" value="Sözcük belirtiniz." />
+    <text name="Logout" value="Çıkış" />
+    <text name="Ok" value="Tamam" />
+    <text name="MyProfile" value="Profilim" />
+    <text name="AgentStateDurationsReport" value="Durum &amp; Süre Raporu" />
+    <text name="SearchServiceSettings" value="Arama ayarları" />
+    <text name="Pronounciation" value="Söyleniş" />
+    <text name="RecommendedPronounciation" value="Önerilen Söyleniş" />
+    <text name="LanguageModelUpdatedButInfiromingMrcpFailed" value="Dil modeli güncellendi; fakat analiz makinelerine dağıtılamadı." />
+    <text name="AlreadyExists" value="“{0}” zaten bulunmaktadır." />
+    <text name="EditWord" value="Sözcük Düzenle" />
+    <text name="AddNewWord" value="Yeni Sözcük Ekle" />
+    <text name="NewWordAddedSuccessfully" value="Yeni sözcük başarıyla eklendi." />
+    <text name="Downloads" value="İndirmeler" />
+    <text name="AgentApplication" value="Asistan Uygulaması" />
+    <text name="IntegrationGuide" value="Entegrasyon kılavuzu" />
+    <text name="LanguageModelAndDictionaryEdit" value="Dil Modeli &amp; Sözlük Yönetimi" />
+    <text name="EditExistingWord" value="Sözcük Düzenle" />
+    <text name="UpdateNow" value="Şimdi Güncelle" />
+    <text name="DublicateWordError" value="“{0}” sözcüğü zaten bulunmaktadır." />
+    <text name="CallSteering.TreeList.LanguageModelEditPermission" value="Dil Modeli &amp; Sözlük Yönetimi" />
+    <text name="CallSteering.TreeList.AnnounceListEditPermission" value="Anons Listesi - Düzenleme" />
+    <text name="EnableGramerChange" value="Model Adını Değiştir" />
+    <text name="AWordCannotContainASpace" value="Sözcük, boşluk içermemelidir." />
+    <text name="ApplicationSettings" value="Uygulama Ayarları" />
+    <text name="Settings" value="Ayarlar" />
+    <text name="AppLogs" value="Uygulama Kayıtları" />
+    <text name="DownloadLogFiles" value="Uygulama Kayıt Dosyalarını İndirme" />
+    <text name="LastWrittenLogs" value="Son Yazılan Uygulama Kayıtları" />
+    <text name="EditAgentActions" value="Asistan Karar Tipi - Düzenleme" />
+    <text name="CreateAgentAction" value="Asistan Karar Tipi - Ekleme" />
+    <text name="EditAgentStates" value="Asistan Durumu - Düzenleme" />
+    <text name="CreateAgentState" value="Asistan Durumu - Ekleme" />
+    <text name="AreYouSureToUpdateAgentAction" value="Karar tipini güncellemek, istemci(IVR, mobil uygulama...vs.) sistemdeki değişkeni de güncellemeyi gerektirir. {0} adlı asistan karar tipini güncellemek istediğinizden emin misiniz?" />
+    <text name="MakeActive" value="Aktifleştir" />
+    <text name="MakePassive" value="Pasifleştir" />
+    <text name="Active" value="Aktif" />
+    <text name="Passive" value="Pasif" />
+    <text name="ReportLoggedOut" value="Asistan çıkış yaptığında bildirim yapılacak e-posta adresleri" />
+    <text name="ReportLoggedOut_Description" value="Asistan çıkış bildirim raporu" />
+    <text name="ReportQueueTimeOut" value="Asistan kuyruğunda süre aşımı olduğunda bildirim yapılacak e-posta adresleri" />
+    <text name="ReportQueueTimeOut_Description" value="Asistan kuyruğunda süre aşım bildirimi raporu" />
+    <text name="ReportSeamlessAgentTimeOut" value="Asistan ekranında süre aşımı olduğunda bildirim yapılacak e-posta adresleri" />
+    <text name="ReportSeamlessAgentTimeOut_Description" value="Asistan ekranında süre aşım bildirimi raporu" />
+    <text name="ReportHealthCheck" value="Hata oluşması durumunda bildirim yapılacak e-posta adresleri" />
+    <text name="ReportHealthCheck_Description" value="Veritabanına bağlanamama, log yazamama ve depolama alanında %5 ten az yer kalması durumları" />
+    <text name="Max1WeekExcelReport" value="En fazla bir haftalık veri için Excel çıktısı alınabilir." />
+    <text name="Max1MonthCanBeReported" value="En fazla bir aylık rapor oluşturulabilir." />
+    <text name="TermList" value="Kavram Listesi" />
+    <text name="AdjacenciesList" value="Komşuluk Listesi" />
+    <text name="DeleteConfirmation" value="Silmek istediğinizden emin misiniz?" />
+    <text name="Definition" value="Tanım" />
+    <text name="Refresh" value="Yenile" />
+    <text name="AnErrorOccurred" value="Bir hata oluştu ve sistem yöneticileri için kayıt tutuldu." />
+    <text name="OperationSuccessful" value="İşlem başarıyla tamamlandı." />
+    <text name="NothingToReport" value="Seçilen filtrelere uygun raporlanacak veri bulunamadı." />
+    <text name="DownloadAllAudioFiles" value="Tüm Ses Dosyalarını İndir" />
+    <text name="EditGrammerNamePermission" value="Model Adı Değiştirme" />
+    <text name="Customer" value="Son Kullanıcı" />
+    <text name="DailyCallCount" value="Çağrılar" />
+    <text name="Recognition" value="Tanıma" />
+    <text name="Recognitions" value="Tanımalar" />
+    <text name="ViewMore" value="Detaylar" />
+    <text name="YouCantDownloadMoreThan" value="En fazla “{0}” ses dosyası indirilebilir." />
+    <text name="Dialog" value="Diyalog" />
+    <text name="Dialogs" value="Diyaloglar" />
+    <text name="DoYouWantToUpdateLanguageModel" value="Dil modelini güncellemek istediğinizden emin misiniz?" />
+    <text name="DoYouWantToReturnOldBackup" value="Dil modelini bir önceki sürümüne almak istediğinizden emin misiniz?" />
+    <text name="Statistics_CustomerCount_Description" value="Seçilen filtrelere göre toplam kaç farklı tekil son kullanıcının sistemi aradığını gösterir." />
+    <text name="Statistics_CallCount_Description" value="Seçilen filtrelere göre toplam arama sayısını gösterir." />
+    <text name="Statistics_DialogCount_Description" value="Bir diyalog genellikle kullanıcı bir uç menüye yönlendirildiğinde tamamlanır. İstemciden(IVR, mobil uygulama...vs.) diyalog sıfırlama isteği geldiğinde aynı arama sırasında ikinci bir diyaloga geçilir." />
+    <text name="Statistics_RecognitionCount_Description" value="Seçilen filtrelere göre toplam kaç adet tanıma yapıldığını gösterir. Aynı aramada ya da diyalogda birden çok tanıma olabilir." />
+    <text name="GettingLastUpdateTime" value="asdasd" />
+    <text name="TreeNotFound" value="Ağaç bulunamadı." />
+    <text name="Help" value="Yardım" />
+    <text name="AgentUsed" value="Asistan Kullanıldı" />
+    <text name="AgentNotUsed" value="Asistan Kullanılmadı" />
+    <text name="DirectRecognitionCount" value="Doğrudan Eşleşme" />
+    <text name="MultipleRecognitionCount" value="Çoklu Eşleşme" />
+    <text name="SuccessRates" value="Başarı Oranları" />
+    <text name="SuccessRate" value="Başarı Oranı" />
+    <text name="ActionOfAgentStatistics" value="Asistan İşlem Dağılım Sayıları" />
+    <text name="ActionsOfAgent" value="Asistan İşlemleri" />
+    <text name="CustomerConfirmation_Verified" value="Onaylanan" />
+    <text name="CustomerConfirmation_Rejected" value="Reddedilen" />
+    <text name="CustomerConfirmation_Other" value="Diğer" />
+    <text name="CustomerConfirmation_Unasked" value="Sorulmamış" />
+    <text name="CustomerConfirmation_OrUnknown" value="veya Bilinmeyen" />
+    <text name="CustomerConfirmationStatistics" value="Onaylama Dağılımı" />
+    <text name="ConfirmationQuestions" value="Onay Soruları" />
+    <text name="DirectMatch" value="Doğrudan Eşleşme" />
+    <text name="SestekInc" value="Sestek A.Ş." />
+    <text name="ExportAgentStateDurationReport" value="Durum Bazında Asistan Raporu - Excel Çıktısı Alma" />
+    <text name="AutomaticClearSearchServiceCache" value="Arama servisinin önbelleğini otomatik olarak temizleme" />
+    <text name="AutomaticClearSearchServiceCache_Description" value="Ayar temizlemek üzere ayarlanmışsa, arama servisinin önbelleğini otomatik olarak temizleme" />
+    <text name="Try1Count" value="1. Deneme" />
+    <text name="Try2Count" value="2. Deneme" />
+    <text name="Try3Count" value="3. Deneme" />
+    <text name="Try4PlusCount" value="4 ve Daha Üstü" />
+    <text name="Hourly" value="Saatlik" />
+    <text name="Daily" value="Günlük" />
+    <text name="PageMode" value="Sayfa Modu" />
+    <text name="VerificationMode" value="Doğrulama Modu" />
+    <text name="ReportingMode" value="Raporlama Modu" />
+    <text name="AllVerificationViewStates" value="Tüm Doğrulama Durumları" />
+    <text name="SystemMenuVerification" value="Sistem - Menü Doğrulama" />
+    <text name="SystemTextVerification" value="Sistem - Metin Doğrulama" />
+    <text name="AgentMenuVerification" value="Asistan - Menü Doğrulama" />
+    <text name="VerificationState" value="Doğruluma Durumu" />
+    <text name="Verify" value="Doğrula" />
+    <text name="VerifyAll" value="Hepsini Doğrula" />
+    <text name="List" value="Listele" />
+    <text name="PlayAudioFileTooltip" value="Ses dosyasını, konuşma olmayan kısımlar temizlenmiş şekilde çalar." />
+    <text name="PlayBeforeVadAudioFileTooltip" value="Ses dosyasını, konuşma olmayan kısımlarıyla birlikte çalar." />
+    <text name="DownloadAudioFileTooltip" value="Ses dosyasını indirir." />
+    <text name="VerificationState_NotControlled" value="Kontrol Edilmemiş" />
+    <text name="VerificationState_Approved" value="Onaylanmış" />
+    <text name="VerificationState_Changed" value="Değiştirilmiş" />
+    <text name="MenuVerified" value="Menü Doğrulama" />
+    <text name="TextVerified" value="Metin Doğrulama" />
+    <text name="AgentMenuVerified" value="Asistan Menü Doğrulama" />
+    <text name="EngineMenuVerified" value="Sistem Menü Doğrulama" />
+    <text name="AgentTextVerified" value="Asistan Metin Doğrulama" />
+    <text name="EngineTextVerified" value="Sistem Metin Doğrulama" />
+    <text name="VerifiedText" value="Doğrulanmış Metin" />
+    <text name="VerifiedNodesTexts" value="Doğrulanmış Menü" />
+    <text name="NotVerifiedText" value="Doğrulanmamış Metin" />
+    <text name="NotVerifiedNodesTexts" value="Doğrulanmamış Menü" />
+    <text name="SentToServer" value="Sunucuya Gönderildi" />
+    <text name="DidntChecked" value="Kontrol Edilmedi" />
+    <text name="TextApprovedMenuChanged" value="Metin Onaylandı Menü Değişti" />
+    <text name="TextChangedMenuApproved" value="Metin Değişti Menü Onaylandı" />
+    <text name="TextAndMenuApproved" value="Metin ve Menü Onaylandı" />
+    <text name="TextAndMenuChanged" value="Metin ve Menü Değişti" />
+    <text name="SelectAll" value="Hepsini Seç" />
+    <text name="SelectNone" value="Hiçbirini Seçme" />
+    <text name="Reset" value="Sıfırla" />
+    <text name="NoneSelected" value="Hiç Seçilmedi" />
+    <text name="ThisFieldCantContainWhiteSpace" value="{0} boşluk karakteri içermemelidir." />
+    <text name="TgTooltipText" value="Tanıma Güvenirliliği" />
+    <text name="AgentPerson" value="Asistan Adı" />
+    <text name="AgentUsage" value="Asistan Kullanımı" />
+    <text name="WithAgent" value="Asistanlı" />
+    <text name="WithoutAgent" value="Asistansız" />
+    <text name="AgentVerificationState" value="Asistan Doğrulama" />
+    <text name="EngineVerificationState" value="Sistem Doğrulama" />
+    <text name="CreationTimeLabel" value="Oluşturulma" />
+    <text name="LastModificationTimeLabel" value="Düzenleme" />
+    <text name="Current" value="Güncel" />
+    <text name="TheseItemsAddedBefore" value="Bu veriler zaten bulunmaktadır." />
+    <text name="Filters" value="Filtreler" />
+    <text name="ValidationDate" value="Doğrulama Tarihi" />
+    <text name="Validation" value="Doğrulama" />
+    <text name="Validated" value="Doğrulanmış" />
+    <text name="NotValidated" value="Doğrulanmamış" />
+    <text name="Menus" value="Menüler" />
+    <text name="ExtId" value="Menü Kodu" />
+    <text name="AnnounceFile" value="Anons Dosyası" />
+    <text name="AnnounceFileName" value="Anons Dosyası Adı" />
+    <text name="AnnounceFileDownload" value="Anons Dosyasını İndir" />
+    <text name="AnnounceFileUpload" value="Yeni Anons Dosyası Yükle (*.wav)" />
+    <text name="AnnounceText" value="Anons Metni" />
+    <text name="AnnounceTexts" value="Anons Metinleri" />
+    <text name="AnnounceTextInfo" value="Menünün metni yerine #menu etiketini anons metni içerisinde kullanabilirsiniz." />
+    <text name="PleaseMakeSureYourFileIsInWavFormat" value="Dosyanızın wav biçiminde olduğundan emin olunuz." />
+    <text name="FileUploadCompleted" value="Dosya yükleme tamamlandı." />
+    <text name="DownloadCurrentAnnounceFile" value="Yüklü Anons Dosyasını İndir" />
+    <text name="IfYouWantToUploadAnnounceFileFirstDefineMenuCode" value="Anons dosyası yüklemek için önce eşsiz bir menü kodu giriniz." />
+    <text name="DictionaryManagementSection" value="Sözlük Yönetimi" />
+    <text name="DictionaryTermEditSection" value="Sözlük-Kavram Yönetimi" />
+    <text name="ResultsFound" value="sonuç bulundu." />
+    <text name="ThereIsNoFileForThatEntry" value="Bu kayıt için bir dosya bulunamadı." />
+    <text name="ThereIsNoEntryForThis" value="Bu giriş için veri bulunamadı." />
+    <text name="NoTermFound" value="Bu giriş için hiçbir kavram bulunamadı." />
+    <text name="PleaseEnterMenuText" value="Menü metni giriniz." />
+    <text name="PleaseEnterExtId" value="Menü kodu giriniz." />
+    <text name="ThereIsNoAccessForIIS" value="IIS kullanıcısı için dosya yoluna erişim yetkisi verilmelidir." />
+    <text name="TheWordNotFoundInDictionaryCombinedTxtFile" value=" sözcüğü dictionary.combined.dic içinde bulunamadı. Sözlük Yönetiminden ekleyiniz." />
+    <text name="YouAreChangingTheGramerNameDoYouWantToContinue" value="Model adını değiştiriyorsunuz. Model adı değişikliği istemci(IVR, mobil uygulama...vs.) sistemde de güncelleme yapılmasını gerektirir. Devam etmek istiyor musunuz?" />
+    <text name="YouAreChangingDefaultStatusDoYouWantToContinue" value="Ağaç versiyonunun varsayılan durumunu değiştiriyorsunuz. Devam etmek istiyor musunuz?" />
+    <text name="NothingToExport" value="Seçili filtrelere göre çıktı verilebilecek dosya(lar) bulunamadı." />
+    <text name="ExportRecognitionStatisticsReport" value="Excel Çıktısı Alma" />
+    <text name="ExportRecognitionBasedAgentStatisticsReport" value="Tanıma Bazında Asistan Raporu - Excel Çıktısı Alma" />
+    <text name="ClearSearchServiceCacheInfo" value="Arama servisi önbelleği temizlendi." />
+    <text name="FromTopMenu" value="üst menüden" />
+    <text name="AgentScreen" value="Asistan Uygulaması" />
+    <text name="CurrentOperationHasTooMuchDataToProcess" value="İsteğiniz işlemek için çok fazla veri içermektedir. Filtreleri kullanarak veri aralığını daraltınız." />
+    <text name="RestartService" value="Servisi Yeniden Başlatma" />
+    <text name="RestartServiceSettings" value="Servisi Yeniden Başlatma Ayarları" />
+    <text name="RestartedServiceSuccessfully" value="Sestek Call Steering Windows servisi başarıyla yeniden başlatıldı." />
+    <text name="AreYouSureToRestartWinService" value="{0} adlı Windows servisini yeniden başlatmak istediğinizden emin misiniz?" />
+    <text name="CanNotBeRestartedWinService" value="Servis yeniden başlatılamıyor. Kısa bir süre sonra tekrar deneyin. Sorunun devam etmesi halinde sistem yöneticisine haber veriniz." />
+    <text name="FailedToGetWinServiceStartTime" value="Servis başlangıç zamanı alınamadı. Kısa bir süre sonra tekrar deneyin. Sorunun devam etmesi halinde sistem yöneticisine haber veriniz." />
+    <text name="Action" value="İşlemler" />
+    <text name="AnnounceList" value="Anons Listesi" />
+    <text name="MultipleMatchedAnnounces" value="Çoklu Eşleşme Anonsları" />
+    <text name="CustomMultipleMatchedAnnounces" value="Özel Çoklu Eşleşme Anonsları" />
+    <text name="AnnounceManagement" value="Anons Yönetimi" />
+    <text name="GeneralAnnounces" value="Genel Anonslar" />
+    <text name="AddNewAnnounce" value="Yeni Anons Ekle" />
+    <text name="EditAnnounce" value="Anons Düzenle" />
+    <text name="AgentScreen_WaitingNewRequestMessage" value="Sistemden yeni bir tanıma isteği bekleniyor..." />
+    <text name="PLAY" value="Çal" />
+    <text name="AgentScreen_OK" value="TAMAM" />
+    <text name="AgentScreen_ConnectedToServer" value="Sunucuya bağlı." />
+    <text name="AgentScreen_DisconnectedFromServer" value="Sunucu bağlantısı sağlanamıyor" />
+    <text name="AgentScreen_ConnectingToServer" value="Bağlantı kuruluyor..." />
+    <text name="AgentScreen_InvalidInputMessage" value="Geçerli bilgiler girerek yeniden deneyiniz." />
+    <text name="AgentScreen_IvrClientDisconnectedMessage" value="Tanıma isteği iptal edildi." />
+    <text name="AgentScreen_RecognitionTimeoutMessage" value="Gönderilen tanıma isteğine zamanında yanıt veremediğiniz için istek iptal edildi ve molaya alındınız." />
+    <text name="AgentScreen_Document_Title" value="Yeni..." />
+    <text name="AgentFreeTalkRecognitionTextChangeEnabled" value="Asistanlar tanıma metnini düzenleyebilir" />
+    <text name="HowCanIHelpYou" value="Size nasıl yardımcı olabilirim?" />
+    <text name="ErrorOccurred" value="Bir hata oluştu. Daha sonra tekrar deneyiniz." />
+    <text name="ICouldNotFindMenu" value="Yapmak istediğiniz işlem ile ilgili bir menü bulamadım. " />
+    <text name="IUnderstoodMultipleOperation" value="Birden fazla işlem yapmak istediğinizi anladım. " />
+    <text name="IFoundMenu" value="Bununla ilgili {0} işlem buldum. Biraz detaylandırır mısınız? " />
+    <text name="IUnderstood" value="{0} işlemini yapmak istediğinizi anladım. " />
+    <text name="PleaseSelectFollowingItems" value="Aşağıdaki menülerden birini seçiniz:" />
+    <text name="Valid" value="Onay" />
+    <text name="ValidationState" value="Doğrulama Durumu" />
+    <text name="PlayAudioFile" value="Ses dosyasını çal" />
+    <text name="DoYouWantToDeleteThisRecord" value="Bu kayıtı silmek istediğinizden emin misiniz?" />
+    <text name="DoYouWantToDeleteThisRecordAudioFileWillBeDeletedToo" value="Bu kayıt silindiğinde ses dosyası da silinecektir. Devam etmek istediğinizden emin misiniz?" />
+    <text name="DoYouWantVerifyAllRecords" value="Bütün kayıtları doğrulamak biraz zaman alabilir. Devam etmek istediğinizden emin misiniz?" />
+    <text name="Grouping" value="Gruplama" />
+    <text name="Group" value="Grup" />
+    <text name="None" value="Hiçbiri" />
+    <text name="True" value="Evet" />
+    <text name="False" value="Hayır" />
+    <text name="UserIsNotAuthenticatedBySystem" value="Kullanıcı sistem tarafından doğrulanamadı." />
+    <text name="InvalidPassword" value="Şifre hatalıdır." />
+    <text name="PasswordIsVerified" value="Şifre doğrulandı." />
+    <text name="SecureAdminModeOff" value="Güvenli yönetim modu kapalıdır." />
+    <text name="UnableToConnectMrcpUpdateManager" value="Analiz Güncelleme Yöneticisine bağlanılamadı." />
+    <text name="Documents" value="Dokümanlar" />
+    <text name="RecordDeletedSuccessfully" value="Kayıt başarıyla silindi." />
+    <text name="RecordUpdatedSuccessfully" value="Kayıt başarıyla güncellendi." />
+    <text name="AnnounceActions" value="Anons İşlemleri" />
+    <text name="AnnounceListReporting" value="Anons Listesi Raporlama" />
+    <text name="AnnounceListPlayAudioFiles" value="Anons Listesi - Ses Çalma" />
+    <text name="AnnounceListDownloadAudioFiles" value="Anons Listesi - Ses İndirme" />
+    <text name="AnnounceListExportToExcel" value="Anons Listesi - Excel Çıktısı Alma" />
+    <text name="AnnounceListVerify" value="Anons Listesi - Doğrulama" />
+    <text name="MrcpErrorListReporting" value="Tanımanın Gerçekleşmediği İstekler" />
+    <text name="MrcpErrorListPlayAudioFiles" value="Tanımanın Gerçekleşmediği İstekler - Ses Çalma" />
+    <text name="MrcpErrorListDownloadAudioFiles" value="Tanımanın Gerçekleşmediği İstekler - Ses İndirme" />
+    <text name="MrcpErrorListExportExcel" value="Tanımanın Gerçekleşmediği İstekler - Excel Çıktısı Alma" />
+    <text name="MrcpErrorList" value="Tanımanın Gerçekleşmediği İstekler" />
+    <text name="MrcpErrors" value="Tanımanın Gerçekleşmediği İstekler" />
+    <text name="MrcpErrorFilters" value="Tanımanın Gerçekleşmediği İstek Filtreleri" />
+    <text name="MrcpErrorCode" value="Yanıt Kodu" />
+    <text name="MrcpErrorMessage" value="Yanıt Mesajı" />
+    <text name="CsUser" value="Kullanıcı" />
+    <text name="GroupNumberByDialogIdTooltip" value="Aynı çağrı dizisinde olan kayıtların grup numarası" />
+    <text name="RestartDialog" value="Diyaloğu yeniden başlatın" />
+    <text name="EnterExpressionForDialog" value="Diyalog için bir ifade giriniz..." />
+    <text name="MrcpErrorId" value="Yanıt Id" />
+    <text name="Computer" value="Bilgisayar" />
+    <text name="MrcpErrorStatistics" value="Tanımanın Gerçekleşmediği İstekler" />
+    <text name="MrcpErrorType" value="Yanıt Kodu" />
+    <text name="NoInputTimeout" value="Sessizlik Zaman Aşımı" />
+    <text name="Fail" value="Başarısız" />
+    <text name="Stopped" value="Durduruldu" />
+    <text name="RecognitionTimeout" value="Tanıma Zaman Aşımı" />
+    <text name="Noise" value="Gürültü" />
+    <text name="UserAlreadyLoginMessage" value="Bu kullanıcı adına açılmış başka bir oturum bulunmaktadır." />
+    <text name="CouldNotFoundTheUserMessage" value="Kullanıcı bulunamadı." />
+    <text name="EnterAnnounceText" value="Anons metnini giriniz..." />
+    <text name="LdapUserRoleManagement" value="LDAP Grup Rol İlişkisi" />
+    <text name="LdapUserRoleManagementAdd" value="LDAP Grup Rol İlişkisi - Ekleme" />
+    <text name="LdapUserRoleManagementEdit" value="LDAP Grup Rol İlişkisi - Düzenleme" />
+    <text name="LdapUserRoleManagementDelete" value="LDAP Grup Rol İlişkisi - Silme" />
+    <text name="Announces" value="Anonslar" />
+    <text name="NewAnnounce" value="Yeni Anons Ekle" />
+    <text name="CallerNumberCustomerIdAndCallIdMustBeBiggerThan" value="Arayan Numara, Son Kullanıcı No ve Çağrı Id en az 3 karakter uzunluğunda olmalıdır." />
+    <text name="AnnounceTextAndFile" value="Anons Metni ve Dosyası (.wav)" />
+    <text name="AnnounceFileUploadWithNotice" value="Yeni anons dosyası yükle (*.wav). Ses dosya biçimi kurum standartlarına uygun olmalıdır." />
+    <text name="NotUploadVoiceFile" value="Ses dosyası yüklenemedi." />
+    <text name="ExportTree" value="Dışarı Al" />
+    <text name="ImportTree" value="Ağacı İçeri Al" />
+    <text name="ExportingTree" value="Ağaç dışa alım için paketleniyor..." />
+    <text name="ImportingTree" value="Ağaç içeri alınıyor..." />
+    <text name="ImportExportTreePermission" value="Ağacı İçeri/Dışarı Alma" />
+    <text name="File" value="Dosya" />
+    <text name="DragToUpload" value="Yüklenecek dosyayı bu alana sürükleyip bırakınız." />
+    <text name="Retry" value="Tekrar Dene" />
+    <text name="YouCanSelectOnlyOneFile" value="Sadece bir adet dosya seçebilirsiniz." />
+    <text name="FileUploadResponseError" value="Sunucuda {{statusCode}} kodlu hata oluştu." />
+    <text name="FileUploadInvalidFileType" value="Bu dosya biçimi kabul edilmemektedir." />
+    <text name="FileUploadFileTooBig" value="Dosya boyutu ({{filesize}} Mb) kabul edilen en büyük dosya boyutunu ({{maxFilesize}} Mb) aşmaktadır." />
+    <text name="FileUploadFallbackText" value="Dosya yüklemeyi form ile yapınız." />
+    <text name="FileUploadFallbackMessage" value="Tarayıcınız sürükle bırak yöntemiyle dosya yüklemeyi desteklemiyor." />
+    <text name="FileUploadDefaultMessage" value="Dosyayı buraya bırakınız." />
+    <text name="CancelConfirm" value="İptal etmek istediğinizden emin misiniz?" />
+    <text name="DragToUploadTree" value="Ağaç dosyasını bu alana sürükleyip bırakınız veya buraya tıklayınız." />
+    <text name="TreeImportedSuccessfully" value="Ağaç başarıyla içeri alındı." />
+    <text name="DateFormatHourSeconds" value="dd.MM.yyyy HH:mm:ss" />
+    <text name="ConfirmTreeExport" value="“{0}” ağacının son sürümü dışarı alınacaktır. Aktarım süresi ağacın büyüklüğüne göre birkaç dakika sürebilir. Devam etmek istiyor musunuz?" />
+    <text name="TreeCreationDate" value="Ağaç yaratılma" />
+    <text name="Attention" value="Uyarı!" />
+    <text name="TreeImportIncompatibleVersion" value="Bu ağaç Call Steering v{0} sürümünden dışarı alınmıştır. Güncel sistem sürümü v{1} olduğu için bu dosya ile uyumsuzdur." />
+    <text name="AnnounceCategory_SelectCategory" value="Bir kategori seçiniz" />
+    <text name="AnnounceCategory_Welcome" value="Karşılama" />
+    <text name="AnnounceCategory_ExactMatch" value="Tam eşleşme" />
+    <text name="AnnounceCategory_BinaryMatch" value="İkili çoklu eşleşme" />
+    <text name="AnnounceCategory_TripleMatch" value="Üçlü çoklu eşleşme" />
+    <text name="AnnounceCategory_FoursomeMatch" value="Dörtlü çoklu eşleşme" />
+    <text name="AnnounceCategory_MultipleMatch" value="Genel çoklu eşleşme" />
+    <text name="AnnounceCategory_ParentMatch" value="Ara eşleşme" />
+    <text name="AnnounceCategory_GeneralParentMatch" value="Genel ara eşleşme" />
+    <text name="AnnounceCategory_ParentMatchWithTwoChild" value="İki alt menülü ara eşleşme" />
+    <text name="AnnounceCategory_ParentMatchWithThreeChild" value="Üç alt menülü ara eşleşme" />
+    <text name="AnnounceCategory_ParentMatchWithFourChild" value="Dört alt menülü ara eşleşme" />
+    <text name="AnnounceCategory_NoMatch" value="Eşleşme yok" />
+    <text name="AnnounceCategory_NoVoice" value="Sessizlik" />
+    <text name="AnnounceCategory_NoVoiceRepeat" value="Tekrar sessizlik" />
+    <text name="AnnounceCategory_LowConfidence" value="Anlaşılamama" />
+    <text name="AnnounceCategory_LowConfidenceRepeat" value="İkinci Anlaşılamama" />
+    <text name="AnnounceCategory_Error" value="Hata" />
+    <text name="AnnounceCategory_ConnectionError" value="Hata-Bağlantı" />
+    <text name="Category" value="Kategori" />
+    <text name="Text" value="Metin" />
+    <text name="FileName" value="Dosya İsmi" />
+    <text name="MenuSelected" value="Menü Seçildi" />
+    <text name="RequiredField" value="{0} alanını doldurunuz." />
+    <text name="MakeNewTreeVersion" value="Son versiyon olarak ekle" />
+    <text name="UpdateLMTimeout" value="Dil modelini güncelleme işlemi zaman aşımına uğradı. Konfigürasyon değerini artırmayı deneyin." />
+    <text name="AnnounceTags" value="Anons Etiketleri" />
+    <text name="AnnounceTagName" value="Etiket adı" />
+    <text name="AnnounceTagDescription" value="Açıklaması" />
+    <text name="AnnounceTagAddNew" value="Yeni Etiket Ekle" />
+    <text name="AnnounceTagNew" value="Yeni Anons Etiketi" />
+    <text name="Required" value="Gerekli" />
+    <text name="AnnounceTagEditPermission" value="Anons Etiketi Güncelleme" />
+    <text name="AnnounceTagDeletePermission" value="Anons Etiketi Silme" />
+    <text name="AnnounceTagViewPermission" value="Anons Etiketi Görme" />
+    <text name="AnnounceTagCreatePermission" value="Anons Etiketi Yaratma" />
+    <text name="AgentDecisionTypeAnnounces" value="Asistan Karar Tipi Anonsları" />
+    <text name="AdtAnnounce_SelectDecType" value="Bir karar tipi seçiniz" />
+    <text name="AdtAnnounce_SelectActionType" value="Bir karar tipi seçiniz" />
+    <text name="SignalRConnectionPort" value="Windows servisi bağlantı portu" />
+    <text name="SignalRUrlSchema" value="Windows servisi bağlantı protokolü" />
+    <text name="CustomAnnounces" value="Özel anonslar" />
+    <text name="EnterCustomAnnonceText" value="Özel anons metnini giriniz..." />
+    <text name="EnterAnnounceTag" value="Anons etiketi giriniz..." />
+    <text name="UploadCustomAnnounceFile" value="Özel anons dosyası yükleyiniz (*.wav)..." />
+    <text name="FileUploaded" value="Dosya yüklendi." />
+    <text name="CustomAnnounce" value="Özel anons" />
+    <text name="CustomAnnounceText" value="Özel anons metni" />
+    <text name="AddAnnouncePart" value="Anons Parçası Ekle" />
+    <text name="EnterDynamicField" value="Dinamik alan giriniz..." />
+    <text name="NoDynamicField" value="Böyle bir dinamik alan bulunamadı!" />
+    <text name="DynamicFieldsEditPermission" value="Dinamik Alanları Güncelleme" />
+    <text name="DynamicFieldsDeletePermission" value="Dinamik Alanları Silme" />
+    <text name="DynamicFieldsViewPermission" value="Dinamik Alanları Görme" />
+    <text name="DynamicFieldsCreatePermission" value="Dinamik Alanları Yaratma" />
+    <text name="DynamicFieldCodeName" value="Kod Adı" />
+    <text name="DynamicFieldPlaceHolder" value="Kullanım Adı" />
+    <text name="AddNewDynamicField" value="Yeni Dinamik Alan Ekle" />
+    <text name="NotAuthorized" value="Bu işlem için yetkiniz yok!" />
+    <text name="DynamicFieldValuesCount" value="Dinamik Alanlar" />
+    <text name="NewDynamicFieldValue" value="Değer Gir" />
+    <text name="DynamicFieldValues" value="Dinamik Alan Değerleri" />
+    <text name="DynamicFieldValuesInputRule" value="Her satırda bir değer olacak şekilde giriniz." />
+    <text name="DynamicFieldCodeNamePlaceHolderCannotBeEmpty" value="Kullanım adı boş olamaz!" />
+    <text name="DynamicFieldPlaceHolderMustStartWithAt" value="Kullanım adı @ işaretiyle başlamalıdır!" />
+    <text name="DynamicFieldDublicateCodeName" value="Bu kullanım adı daha önce kullanılmıştır. Lütfen başka bir ad deneyin." />
+    <text name="MissingAnnounceTag" value="Anons etiketi giriniz! Anons etiketleri listesine Uygulama Ayarları &gt; Anons Etiketleri bölümünden erişebilirsiniz." />
+    <text name="InvalidAnnounceTag" value="Anons etiketi geçersiz. En az 2 harf yazarak açılan listeden anons etiketi seçiniz.  Anons etiketleri listesine Uygulama Ayarları &gt; Anons Etiketleri bölümünden erişebilirsiniz." />
+    <text name="SelectDynamicFields" value="Dinamik alan seçiniz" />
+    <text name="DynamicFieldsSelected" value="dinamik alan seçildi" />
+    <text name="IgnoreFromHistory" value="Diyalog Geçmişinde Dikkate Alma" />
+    <text name="EmtpyAnnounceText" value="{0}.satırda anons metni girilmemiş!" />
+    <text name="ConfirmationDynamicField" value="Onaylama alanı" />
+    <text name="CustomerHasConfirmation" value="Müşteri Doğrulama" />
+    <text name="CustomerHasConfirmation_Yes" value="Doğrulanmış" />
+    <text name="CustomerHasConfirmation_No" value="Doğrulanmamış" />
+    <text name="AutomaticallyAddedDynamicFieldInfo" value="“@confirmation” ile başlayan dinamik alanlar ağaçta doğrulama yapan özel alanlardı. Bu alanlar ağacın diline göre otomatik olarak eklenecektir ve ağacın dinamik alanlarında görünmeyecektir. Alanı kaldırmanız durumunda doğrulama özelliği kullanılmaz." />
+    <text name="AddDynamicFieldSuffixKey" value="- ek giriniz -" />
+    <text name="SuffixKeyInfo" value="Dinamik alan eki" />
+    <text name="NoSuffixKey" value="- ek yok -" />
+    <text name="DynamicFieldExistsOnNode" value="Dinamik alan bu dala daha önce eklenmiş." />
+    <text name="DynamicFieldMinMaxCantBeZero" value="Minimum ve maksimum değerlerin ikisi de sıfır olamaz." />
+    <text name="DynamicFieldMinMaxValuesExceeded" value="Min veya max değerler çok yüksek." />
+    <text name="DynamicFieldUsedInNodes" value="Dinamik alan “{0}” ağacın “{1}” adlı dalında kullanılmış. Devam edilemez." />
+    <text name="DynamicFieldUsedInAnnounceParts" value="Dinamik alan “{0}” ağacın “{1}” adlı dalının anonslarında kullanılmış. Devam edilemez." />
+    <text name="DynamicFieldUsedInTerms" value="Dinamik alan “{0}” ağacın “{1}” adlı dalındaki terimler arasında kullanılmış. Devam edilemez." />
+    <text name="AnnounceTagExists" value="Etiket “{1}” adlı ağacın “{0}” adlı dalında kullanılmış, silinemez." />
+    <text name="AnnounceTagExistsInTree" value="Etiket “{0}” adlı ağaçta kullanılmış, silinemez." />
+    <text name="AnnounceTagNameExists" value="Aynı isimde bir etiket halihazırda bulunuyor, kayıt yapılamaz." />
+    <text name="AgentActionUsedInAnnounce" value="Asistan Karar Tipi ağacın Asistan Karar Tipi Anonslarında kullanılmış, silinemez." />
+    <text name="WindowsServiceDoesntExist" value="Windows servisi bulunamadı! Servisler listesinde “{0}” adında bir servisin var olduğundan emin olun." />
+    <text name="ErrorOccuredWhileRestartingWindowsService" value="Windows servisini yeniden başlatırken bir hata oluştu!" />
+    <text name="WindowsServiceSuccessfullyRestarted" value="Windows servisi başarıyla yeniden başlatıldı." />
+    <text name="WindowsServiceRestartTimedOut" value="Windows servisi belirtilen sürede başlatılamadı. Servis başlatılırken hata alıyor olabilir. Windows Event Log kontrol ediniz." />
+    <text name="NotCsUserForAgentApplication" value="Bu kullanıcı tipi asistan uygulamasını açmaya uygun değil. (Admin kullanıcısı asistan olarak işlem yapamaz!)" />
+    <text name="DynamicFieldUsedOnTree" value="Dinamik alan “{0}” isimli ağaçta kullanılmış, silinemez." />
+    <text name="MultipleMatchAnnounceAddedBefore" value="Seçili menü(ler) için daha önce çoklu anons eklenmiş. Yine de eklemek ister misiniz?" />
+    <text name="NodeIsUsedInMultipleMatchAnnounce" value="Dal yada alt dalları, “{0}” ifadeli bir Çoklu Eşleşme Anonsunda kullanılmış, silinemez." />
+    <text name="IsIgnoreWhenMultipleMatch" value="Çoklu Eşleşmelerde Yoksay" />
+    <text name="IsDefaultVersion" value="Varsayılan ağaç" />
+    <text name="SetTreeAsDefaultPermission" value="Varsayılan Ağaç Olarak Atayabilme" />
+    <text name="NoDefaultTreeVersion" value="Bu ağacın hiçbir versiyonuna varsayılan ağaç atanmamış. Varsayılan ağaç özelliğini kaldıramazsınız." />
+    <text name="NoDefaultTreeVersionWithoutPermission" value="Bu ağacın hiçbir versiyonuna varsayılan ağaç atanmamış. Varsayılan ağaç özelliği yetkilerinizde görünmüyor. Lütfen sistem yöneticinizle görüşerek varsayılan ağaç atama özelliğini aktif ettiriniz." />
+    <text name="EnterAgentActionName" value="Asistan karar tipi adı giriniz" />
+    <text name="TreeAgentActionsSelected" value="asistan karar tipi seçildi" />
+    <text name="SelectTreeAgentActions" value="Asistan karar tipi seçiniz" />
+    <text name="GrantAgentPermission" value="Asistanları Ağaca Yetkilendirme" />
+    <text name="EnterAgentName" value="Asistan adı giriniz..." />
+    <text name="TreeAgentsSelected" value="asistan seçildi" />
+    <text name="SelectTreeAgents" value="Asistan seçiniz" />
+    <text name="GrantedAgents" value="Yetkili Asistanlar" />
+    <text name="CheckAll" value="Tümünü Seç" />
+    <text name="UncheckAll" value="Hiçbirini Seçme" />
+    <text name="SelectionCount" value="Seçili Adet" />
+    <text name="SelectionOf" value="Seçili" />
+    <text name="SearchPlaceholder" value="Filtrele..." />
+    <text name="ButtonDefaultText" value="Seçiniz" />
+    <text name="DynamicButtonTextSuffix" value="Seçili" />
+    <text name="DefaultTreeNotFound" value="Verilen ağaç adına uygun varsayılan ağaç bulunmamaktadır." />
+    <text name="NewVersionConfirm" value="“{0}” ağacının “{1}” nolu yeni versiyonu oluşturulacaktır. İşleme devam etmek istiyor musunuz?" />
+    <text name="AnnounceType_Normal" value="Normal" />
+    <text name="AnnounceType_Confirmation" value="Onay" />
+    <text name="NormalAnnounce" value="Normal anons" />
+    <text name="ConfirmationAnnounce" value="Onay anonsu" />
+    <text name="NoDefaultChecklistFile" value="Varsayılan kontrol listesi yok! Varsayılan kontrol listesi yüklendiğinde indirebilirsiniz." />
+    <text name="MultiSelected" value="Kayıt seçildi" />
+    <text name="SelectAgentDecisionType" value="Asistan Karar Tipi Seçiniz" />
+    <text name="AgentDecisionTypesSelected" value="Asistan Karar Tipi Seçildi" />
+    <text name="SelectAgentVerification" value="Asistan Doğrulama Seçiniz" />
+    <text name="AgentVerificationsSelected" value="Asistan Doğrulama Seçildi" />
+    <text name="SelectEngineVerification" value="Sistem Doğrulama Tipi Seçiniz" />
+    <text name="EngineVerificationsSelected" value="Sistem Doğrulama Tipi Seçildi" />
+    <text name="AllowedTrees" value="Çağrı alabileceğiniz ağaçlar" />
+    <text name="NoAllowedTrees" value="Ağaç tanımlanmamış!" />
+    <text name="CannotRecieveSeamlessCall" value="Size hiç ağaç tanımlanmamış! Çağrı alabileceğiniz ağaçların seçilmesi için sistem yöneticinizle görüşün. Şu anda çağrı alamazsınız." />
+    <text name="RestApiConnectionPort" value="Windows servisi REST API bağlantı portu" />
+    <text name="RestApiUrlSchema" value="Windows servisi REST API bağlantı protokolü" />
+    <text name="IsUseMenuPrompt" value="Menü anonsları kullanılsın" />
+    <text name="MissingMenuAnnounce" value="Menü anonsu eksik!" />
+    <text name="AddNew" value="Yeni Ekle" />
+    <text name="NonAnnounceTagWarning" value="Kayıtlı olmayan bir etiket girdiniz!" />
+    <text name="Tags" value="Etiketler" />
+    <text name="NoNodeWarning" value="Hiç menü seçmediniz!" />
+    <text name="NotExistsInDictionary" value="Sözlükte yok." />
+    <text name="ExistsInDictionary" value="Sözlükte var." />
+    <text name="NotExistsInMatchingTerms" value="Kavramlarda yok" />
+    <text name="ExistsInMatchingTerms" value="Kavramlarda var" />
+    <text name="ExistsInMatchingTermsAndMatched" value="Kavramlarda var ve eşleşti" />
+    <text name="ExistsInMatchingTermsButNotMatched" value="Kavramlarda var fakat eşleşmedi" />
+    <text name="SearchMatchingTerm" value="Kavram Eşleşmesi" />
+    <text name="SearchMatchingPhrase" value="İfade Eşleşmesi" />
+    <text name="PromtTagInUse" value="Bu etiket kullanılmaktadır. Kullanım bilgileri: {0}. Önce etiketi bu anonstan kaldırınız." />
+    <text name="PromptType" value="Anons Tipi" />
+    <text name="TreePrompt" value="Genel Anons" />
+    <text name="MultipleMatchPrompt" value="Çoklu Eşleşme Anonsu" />
+    <text name="AgentActionPrompt" value="Asistan Karar Tipi Anonsu" />
+    <text name="NodePrompt" value="Menü Anonsu" />
+    <text name="SystemPromptTag" value="Sistem Etiketi" />
+    <text name="PromptTagType" value="Tip" />
+    <text name="PromptCategory" value="Anons Kategorisi" />
+    <text name="Menu" value="Menü" />
+    <text name="PromptTagCategory_None" value="Hiçbiri" />
+    <text name="PromptTagCategory_SearchResult" value="Arama sonucu" />
+    <text name="PromptTagCategory_Greeting" value="Karşılama" />
+    <text name="PromptTagCategory_ClientRecognitionStatus" value="İstemci tanıma durumu" />
+    <text name="PromptTagCategory_Error" value="Hata" />
+    <text name="PromptTagCategory_Confirmation" value="Onaylama" />
+    <text name="MyTrees" value="Ağaçlarım" />
+    <text name="AgentActionUsedInTree" value="Asistan karar tipi {0} adlı ağacın {1} versiyonunda kullanılmış, pasif olarak işaretlenemez." />
+    <text name="DefaultTreeCanNotBeDeleted" value="Varsayılan versiyon silinemez, silmek için başka bir versiyonu varsayılan yapın." />
+    <text name="TextMayNotContainSpecialChar" value="Metinde “{0}” karakteri kullanılamaz." />
+    <text name="RestartServiceAfterThis" value="Değişikliklerin etkili olabilmesi için windows servisini tekrar başlatın." />
+    <text name="PhraseExistOnAnotherNode" value="“{0}” ifadesi “{1}” adlı menüye de girilmiş." />
+    <text name="CanNotAddWordWithAtSymbol" value="@ sembolü ile başlayan bir kelime girilemez." />
+  </texts>
+</localizationDictionary>

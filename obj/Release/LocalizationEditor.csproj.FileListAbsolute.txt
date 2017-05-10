@@ -1,0 +1,9 @@
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\bin\Release\LocalizationEditor.exe.config
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\bin\Release\LocalizationEditor.exe
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\bin\Release\LocalizationEditor.pdb
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\obj\Release\LocalizationEditor.Form1.resources
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\obj\Release\LocalizationEditor.Properties.Resources.resources
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\obj\Release\LocalizationEditor.UserControl.PlaceHolderTextBox.resources
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\obj\Release\LocalizationEditor.csproj.GenerateResource.Cache
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\obj\Release\LocalizationEditor.exe
+C:\Users\berkin.akaydin\Documents\Visual Studio 2015\Projects\LocalizationEditor\LocalizationEditor\obj\Release\LocalizationEditor.pdb

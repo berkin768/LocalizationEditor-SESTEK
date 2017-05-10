@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localizationDictionary culture="en">
+  <texts>
+    <text name="Sum" value="Sum" />
+    <text name="RequiredFieldWarning" value="This field must be specified." />
+    <text name="HomePage" value="Home Page" />
+    <text name="UserManagement" value="User Management" />
+    <text name="RecognitionList" value="Recognition List" />
+    <text name="InvalidUsernameAndOrPassword" value="Invalid username and/or password." />
+    <text name="RecognitionListFilters" value="Recognition List Filters" />
+    <text name="RecognitionListGetRecognitions" value="Get Recognitions" />
+    <text name="RecognitionListExportRecognitions" value="Export Recognitions as Excel file" />
+    <text name="RecognitionListDownloadAudioFile" value="Download Audio File" />
+    <text name="RecognitionListDownloadAudioFiles" value="Download Audio Files" />
+    <text name="RecognitionListPlayAudioFile" value="Play Audio File" />
+    <text name="AgentResponseTimeoutAsSeconds" value="Agent Response Timeout in Seconds" />
+    <text name="AgentZas" value="Agent ST" />
+    <text name="DictionaryList" value="Language Model" />
+    <text name="asdasd" value="Administration" />
+    <text name="Dashboard" value="Dashboard" />
+    <text name="Deleting" value="Deleting..." />
+    <text name="TreeDeleted" value="Tree has been deleted." />
+    <text name="TreeList" value="Tree List" />
+    <text name="MatchScore" value="Match Score" />
+    <text name="CreateNewTree" value="Create Tree" />
+    <text name="PreviousVersions" value="Previous Versions" />
+    <text name="TreeName" value="Tree Name" />
+    <text name="CodeName" value="Code Name" />
+    <text name="Version" value="Version" />
+    <text name="GroupName" value="Group Name" />
+    <text name="RoleName" value="Role Name" />
+    <text name="RoleId" value="Role Id" />
+    <text name="IpAddress" value="IP Address" />
+    <text name="ReturnOldBackup" value="Return Backup" />
+    <text name="Edit" value="Edit" />
+    <text name="CreateNewVersion" value="Create Version" />
+    <text name="DeleteTree" value="Delete tree" />
+    <text name="DeleteTreeConfirmation" value="Are you sure to delete the tree `{0}`?" />
+    <text name="Saving" value="Saving..." />
+    <text name="SavedSuccessfully" value="Saved successfully." />
+    <text name="NewVersion" value="New Version" />
+    <text name="NewVersionCreated" value="New version created." />
+    <text name="NewTreeCreated" value="New tree created." />
+    <text name="EditTree" value="Edit Tree" />
+    <text name="EnterSimulationFilter" value="Enter an expression to search on tree... " />
+    <text name="Search" value="Search" />
+    <text name="ShowOtherFilters" value="Show Other Filters" />
+    <text name="HideOtherFilters" value="Hide Other Filters" />
+    <text name="DateRange" value="Date Range" />
+    <text name="Tree" value="Tree" />
+    <text name="TreeNode" value="Tree Node" />
+    <text name="TreeVersion" value="Tree Version" />
+    <text name="TreeNodeNotFound" value="There is no tree node for the given criteria." />
+    <text name="All" value="All" />
+    <text name="ResultText" value="Result Text" />
+    <text name="PleaseEnterResultText" value="Enter result text..." />
+    <text name="RecognitionConfidence" value="Confidence Value" />
+    <text name="ConfidenceStartCannotBeSmallerThanZeroAndBiggerThan99" value="Confidence value start must be between 0 and 99." />
+    <text name="ConfidenceEndCannotBeSmallerThanOneAndBiggerThan100" value="Confidence value end must be between 1 and 100." />
+    <text name="EnterNumberThatBetween0to100" value="Enter a number between 0-100..." />
+    <text name="AgentSelection" value="Agent Selection" />
+    <text name="Report" value="Report" />
+    <text name="ExportToExcel" value="Export to Excel" />
+    <text name="PleaseEnterACallerNumber" value="Enter a Caller Number..." />
+    <text name="PleaseEnterACustomerNo" value="Enter a Customer No..." />
+    <text name="PleaseEnterACallId" value="Enter a Session Id..." />
+    <text name="AgentDecisionType" value="Agent Action Type" />
+    <text name="DecisionType" value="Action Type" />
+    <text name="DecisionTypes" value="Action Type(s)" />
+    <text name="CallerNumber" value="Caller Number" />
+    <text name="CustomerNo" value="Customer No" />
+    <text name="CallId" value="Session Id" />
+    <text name="CustomerConfirm" value="Customer Confirm" />
+    <text name="MenuChanged" value="Menu Changed" />
+    <text name="TextChanged" value="Text Changed" />
+    <text name="Date" value="Date" />
+    <text name="CreationTime" value="Date" />
+    <text name="MatchResultText" value="Match Result Text" />
+    <text name="Duration" value="Duration" />
+    <text name="EndTime" value="End" />
+    <text name="StartTime" value="Start" />
+    <text name="StateId" value="State Id" />
+    <text name="AgentId" value="Agent Id" />
+    <text name="AgentNameAndSurname" value="Agent Name and Surname" />
+    <text name="AgentActionText" value="Agent Action" />
+    <text name="AgentDurationAsMilliseconds" value="Agent Duration (ms)" />
+    <text name="CustomerId" value="Customer Id" />
+    <text name="IsCustomerConfirmed" value="Customer Confirmed" />
+    <text name="IsMenuChanged" value="Menu Changed" />
+    <text name="IsTextChanged" value="Text Changed" />
+    <text name="Agent" value="Agent" />
+    <text name="AgentDecision" value="Agent Action" />
+    <text name="AgentResponseTime" value="Agent Response Time" />
+    <text name="SrText" value="Recognition Text" />
+    <text name="SrConfidence" value="CV" />
+    <text name="Telephone" value="Tel" />
+    <text name="Calling" value="Calling..." />
+    <text name="Reported" value="Reported" />
+    <text name="ReportResult" value="Report Result" />
+    <text name="MatchSr" value="Match (Before)" />
+    <text name="MatchResult" value="Match (After)" />
+    <text name="NotAsked" value="Not Asked" />
+    <text name="Rejected" value="Rejected" />
+    <text name="Accepted" value="Accepted" />
+    <text name="Changed" value="Changed" />
+    <text name="NotChanged" value="Not Changed" />
+    <text name="AgentAction_Forbidden" value="Forbidden" />
+    <text name="AgentAction_NonExistent" value="Non-Existent" />
+    <text name="AgentAction_Noisy" value="Noisy" />
+    <text name="AgentAction_MultiChoice" value="Multi Choice" />
+    <text name="AgentAction_AgentTimeout" value="Agent Timeout" />
+    <text name="AgentAction_NoAgent" value="No Agent" />
+    <text name="AgentAction_QueueWaitTimeout" value="No Agent (Queue Wait Timeout)" />
+    <text name="AgentAction_ErrorMessage" value="Error Message" />
+    <text name="AgentAction_ConnectionLost" value="Connection Lost" />
+    <text name="AgentAction_Home" value="Home" />
+    <text name="AgentAction_Repeat" value="Repeat" />
+    <text name="AgentAction_Help" value="Help" />
+    <text name="AgentAction_OKChanged" value="OK Changed" />
+    <text name="AgentAction_OKUnchanged" value="OK Unchanged" />
+    <text name="AgentAction_OkMenuUnchanged" value="Menu Unchanged" />
+    <text name="AgentAction_OkTextUnchanged" value="Text Unchanged" />
+    <text name="AgentAction_OkMenuAndTextUnchanged" value="Menu and Text Unchanged" />
+    <text name="AgentAction_OKMenuChanged" value="OK Menu Changed" />
+    <text name="AgentAction_OKTextChanged" value="Text Changed" />
+    <text name="AgentAction_OKMenuAndTextChanged" value="Menu and Text Changed" />
+    <text name="AgentAction_TakeOver" value="Take Over" />
+    <text name="AgentAction_NotUsed" value="Not Used" />
+    <text name="AgentState_Available" value="Available" />
+    <text name="AgentState_Break" value="Break" />
+    <text name="AgentState_Busy" value="Busy" />
+    <text name="AgentState_Logout" value="Logout" />
+    <text name="AgentState_TotalLogin" value="Total Login" />
+    <text name="YouCannotDeleteRootNode" value="Root menu cannot be deleted." />
+    <text name="RootNode" value="Root Menu" />
+    <text name="SrConfidenceEndSmallerThanStart" value="Confidence Value End Rate must be greater than Start Rate." />
+    <text name="EndDateCanNotSmallerThanStartDate" value="Start Date must be earlier than End Date." />
+    <text name="Unknown" value="Unknown" />
+    <text name="ReachedToLeaf" value="Leaf Match" />
+    <text name="NeedToSearchAgain" value="Parent Match" />
+    <text name="NeedToSelectParent" value="Multiple Match" />
+    <text name="NoMatch" value="No Match" />
+    <text name="CallSteeringWcfServiceNotRunning" value="Could not connect to search service. Check if WCF Service is running." />
+    <text name="CancelSearch" value="Cancel Search" />
+    <text name="MenuTree" value="Menu Tree" />
+    <text name="CollapseExpand" value="Collapse/Expand" />
+    <text name="SearchTerm" value="Search term..." />
+    <text name="EditMenu" value="Edit Menu" />
+    <text name="Terms" value="Terms" />
+    <text name="EnterTerm" value="Enter a term..." />
+    <text name="Add" value="Add" />
+    <text name="NoData" value="- No data -" />
+    <text name="DeleteSelected" value="Delete Selected" />
+    <text name="Phrases" value="Phrases" />
+    <text name="EnterPhrase" value="Enter a phrase..." />
+    <text name="DynamicFields" value="Dynamic Fields" />
+    <text name="DynamicField" value="Dynamic Field" />
+    <text name="AddDynamicFieldMinMax" value="Dynamic Field Minimum-Maximum Value" />
+    <text name="CouldNotBeEnteredDynamicFieldSmallerMinValueThanMaxValue" value="Dynamic field minimum value must be smaller than or equal to the maximum value." />
+    <text name="MinimumShort" value="Min" />
+    <text name="MaximumShort" value="Max" />
+    <text name="ChooseDynamicField" value="- Select dynamic field -" />
+    <text name="AddedBefore" value="“{0}” has been added." />
+    <text name="BeingMoved" value="“{0}” moving..." />
+    <text name="Moved" value="“{0}” has been moved successfully." />
+    <text name="AddSubMenu" value="Add Sub Menu" />
+    <text name="DeleteMenu" value="Are you sure to delete “{0}”?" />
+    <text name="MenuDeleted" value="“{0}” has been deleted." />
+    <text name="ExactMatch" value="Leaf Match" />
+    <text name="ParentMatch" value="Parent Match" />
+    <text name="MultipleMatch" value="Multiple Match" />
+    <text name="ERROR" value="Error" />
+    <text name="ErrorOccured" value="An error occured." />
+    <text name="MatchingTerm" value="Matching Term" />
+    <text name="MatchingScore" value="Match Score" />
+    <text name="MenuCode" value="Menu Code" />
+    <text name="MenuId" value="Menu Id" />
+    <text name="SlotValues" value="Slot TreeDynamicFields" />
+    <text name="SlotRepeatCounts" value="Slot Repeat Counts" />
+    <text name="NoSearchResult" value="No results found for “{0}”." />
+    <text name="NotAddedToDictionary" value="“{0}” word(s) is/are not added to dictionary. Add them before adding a new word." />
+    <text name="LanguageModel" value="Language Model" />
+    <text name="AlreadyAdded" value="“{0}” has been already added." />
+    <text name="Collapse" value="Collapse" />
+    <text name="Expand" value="Expand" />
+    <text name="SearchResult" value="Search Result" />
+    <text name="SearchText" value="Search Text" />
+    <text name="ExpectedMenuCode" value="Expected Menu Code" />
+    <text name="Result" value="Result" />
+    <text name="MatchingTerm2" value="Matched Term" />
+    <text name="LeafNode" value="Leaf Node" />
+    <text name="ResultScore" value="Result Score" />
+    <text name="MatchCount" value="Match Count" />
+    <text name="MultipleMatches" value="Multiple Matches" />
+    <text name="ValidationRequired" value="This field must be specified." />
+    <text name="ValidationMinLength" value="Enter at least {0} characters." />
+    <text name="ValidationMaxLength" value="Enter maximum {0} characters." />
+    <text name="ValidationMin" value="Enter at least {0}" />
+    <text name="ValidationMax" value="Enter maximum {0}" />
+    <text name="Cancel" value="Cancel" />
+    <text name="Save" value="Save" />
+    <text name="MULTIPLE_MATCH" value="Multiple Match" />
+    <text name="EXACT_MATCH" value="Leaf Match" />
+    <text name="PARENT_MATCH" value="Parent Match" />
+    <text name="NO_MATCH" value="No Match" />
+    <text name="OnlyExcelFile" value="Excel files with xlsx extension are provided." />
+    <text name="Matching" value="Matching" />
+    <text name="Properties" value="Properties" />
+    <text name="Searching" value="Searching..." />
+    <text name="NodeText" value="Node Text" />
+    <text name="BulkSearch" value="Bulk Search" />
+    <text name="Percent" value="{0}%" />
+    <text name="PleaseWait" value="Please wait..." />
+    <text name="DownloadBulkSearchTemplate" value="Download Empty Checklist" />
+    <text name="DownloadDefaultChecklist" value="Download Default Checklist" />
+    <text name="UploadUserChecklist" value="Upload User Checklist" />
+    <text name="UploadDefaultChecklist" value="Upload Default Checklist" />
+    <text name="UploadBulkSearchExcel" value="Upload Bulk Search File" />
+    <text name="ClearSearchServiceCache" value="Clear Service Cache" />
+    <text name="Delete" value="Delete" />
+    <text name="TreeResourceAlreadyExists" value="Resource files of this tree already exist. {0}" />
+    <text name="TreeResourceNotExists" value="Resource files of this tree could not be found. {0}" />
+    <text name="AcousticModelsAlreadyExists" value="Acoustic model files of this tree already exist. {0}" />
+    <text name="AcousticModelsNotExists" value="Acoustic model files of this tree could not be found. {0}" />
+    <text name="AgentResponseTimeout" value="Agent response timeout (sec)" />
+    <text name="NonAvailableAgentTimeout" value="Agent timeout when there is no available agent (sec)" />
+    <text name="IsAgentUsageUpperConfidenceThresholdVisible" value="No upper confidence threshold for forwarding to agent" />
+    <text name="AgentUsageUpperConfidenceThreshold" value="Upper confidence threshold for forwarding to agent (0-100)" />
+    <text name="ShouldUseAgent" value="Forward to agent" />
+    <text name="RecognitionConfidenceThreshold" value="Recognition confidence threshold (0-100)" />
+    <text name="RecognitionLanguage" value="Recognition language" />
+    <text name="TrainingSentenceRepetitionType" value="Training sentence repetition type" />
+    <text name="NewSubMenu" value="Add Menu" />
+    <text name="SuccessfullyAdded" value="Successfully added." />
+    <text name="UpdateSubMenu" value="Update Menu" />
+    <text name="SuccessfullyUpdated" value="Successfully updated." />
+    <text name="MenuText" value="Menu Text" />
+    <text name="MoveNodeConfirmMessage" value="Do you confirm moving of “{0}” menu into “{1}”?" />
+    <text name="GrammarName" value="Model Name" />
+    <text name="GrammarList" value="Model List" />
+    <text name="NoVersion" value="No Version" />
+    <text name="RoleManagement" value="Role Management" />
+    <text name="InvalidGrammarName" value="Grammar Name must consist of letters and numbers only." />
+    <text name="AgentStatistics" value="Agent Statistics" />
+    <text name="RecognitionStatistics" value="Recognition Statistics" />
+    <text name="DailyRecognitionStatistics" value="Daily Recognition Statistics" />
+    <text name="HourlyRecognitionStatistics" value="Hourly Recognition Statistics" />
+    <text name="Select" value="Select" />
+    <text name="CsDateTimeFormatNoTimeOnlyDate" value="DD.MM.yyyy" />
+    <text name="Apply" value="Apply" />
+    <text name="Starting" value="Starting" />
+    <text name="Finish" value="Finish" />
+    <text name="Start" value="Start" />
+    <text name="End" value="End" />
+    <text name="CustomRange" value="Custom range" />
+    <text name="Today" value="Today" />
+    <text name="Yesterday" value="Yesterday" />
+    <text name="LastXDays" value="Last {0} days" />
+    <text name="1Week" value="One Week" />
+    <text name="1Month" value="One Month" />
+    <text name="ThisMonth" value="This month" />
+    <text name="LastMonth" value="Last month" />
+    <text name="Sun" value="Sun" />
+    <text name="Mon" value="Mon" />
+    <text name="Tue" value="Tue" />
+    <text name="Wed" value="Wed" />
+    <text name="Thu" value="Thu" />
+    <text name="Fri" value="Fri" />
+    <text name="Sat" value="Sat" />
+    <text name="Jan" value="Jan" />
+    <text name="Feb" value="Feb" />
+    <text name="Mar" value="Mar" />
+    <text name="Apr" value="Apr" />
+    <text name="May" value="May" />
+    <text name="Jun" value="Jun" />
+    <text name="Jul" value="Jul" />
+    <text name="Aug" value="Aug" />
+    <text name="Sep" value="Sep" />
+    <text name="Oct" value="Oct" />
+    <text name="Nov" value="Nov" />
+    <text name="Dec" value="Dec" />
+    <text name="Email" value="E-mail" />
+    <text name="AgentSettings" value="Agent Status Settings" />
+    <text name="EmailReports" value="Email Reports" />
+    <text name="EmailReportSettings" value="Email Report Settings" />
+    <text name="SettingsSuccessfullySaved" value="Settings has been successfully saved." />
+    <text name="Domain" value="Domain" />
+    <text name="AgentStatus" value="Agent Status" />
+    <text name="LdapAddress" value="LDAP Address" />
+    <text name="AllTrees" value="Tree List" />
+    <text name="ChooseTreeForNodeStatistics" value="To see menu steering statistics choose a tree." />
+    <text name="RecognitionCount" value="Recognition Count" />
+    <text name="Total" value="Total" />
+    <text name="MatchType" value="Match Type" />
+    <text name="Count" value="Count" />
+    <text name="CountPostfix" value="adasd" />
+    <text name="DailyRecognitionCount" value="Daily Recognition" />
+    <text name="MatchStatistics" value="Match Statistics" />
+    <text name="ExactMatchStatistics" value="Leaf Match Statistics" />
+    <text name="NodeStatisticsChart" value="Menu Statistics" />
+    <text name="AgentActionStatistics" value="Action Statistics" />
+    <text name="AgentActionType" value="Agent Action Type" />
+    <text name="AgentTimeoutStatistics" value="Agent Timeout Statistics" />
+    <text name="TimeoutCount" value="Timeout Count" />
+    <text name="RecognitionBasis" value="Recognition Based" />
+    <text name="StateBasis" value="State Based" />
+    <text name="RecognitionBasisAgentStatistics" value="Recognition Based Agent Statistics" />
+    <text name="StateBasisAgentStatistics" value="State Based Agent Statistics" />
+    <text name="Monitoring" value="Monitoring" />
+    <text name="TryingToConnect" value="Trying to connect..." />
+    <text name="OnlineAgents" value="Online Agents" />
+    <text name="ActiveRecognitionCount" value="Active Recognition Count" />
+    <text name="Average" value="Average" />
+    <text name="ThereIsNoOnlineAgentInTheSystem" value="There is not any online agent." />
+    <text name="CannotSupportThisLanguage" value="Specified language is not supported." />
+    <text name="IllegalCharactersFoundInPronunciation" value="Pronunciation includes invalid characters for the alphabet of specified language." />
+    <text name="Approximately" value="Approximately" />
+    <text name="ViewTreePermission" value="View Tree" />
+    <text name="EditTreePermission" value="Edit Tree" />
+    <text name="LanguageModelEditPermission" value="Edit Language Model" />
+    <text name="CreateNewVersionPermission" value="Create Version" />
+    <text name="DeleteTreePermission" value="Delete Tree" />
+    <text name="TreeDetailPermission" value="Tree" />
+    <text name="CreateTreePermission" value="Create Tree" />
+    <text name="ExportTreeToExcelPermission" value="Export Tree To Excel" />
+    <text name="ExportTreeToExcel" value="Get Tree As Excel" />
+    <text name="State" value="State" />
+    <text name="AgentStateCreatedSuccessfully" value="Agent state has been created successfully." />
+    <text name="AgentStateUpdatedSuccessfully" value="Agent state has been updated successfully." />
+    <text name="AddNewAgentState" value="Create Agent State" />
+    <text name="AddAgentState" value="Create Agent State" />
+    <text name="AreYouSureToDeleteAgentState" value="Are you sure to delete agent state {0}" />
+    <text name="IsTest" value="Is Test?" />
+    <text name="Yes" value="Yes" />
+    <text name="No" value="No" />
+    <text name="LanguageModelFilescantUpdated" value="Language model files could not be updated." />
+    <text name="LanguageModelFilescantFound" value="Language model files are not found." />
+    <text name="SeamlessAgentResult" value="Seamless Agent Result" />
+    <text name="LastUpdateDate" value="Last Update Date: " />
+    <text name="PathNotExists" value="Path does not exist: " />
+    <text name="EnterPronounciationTermOrExampleSentence" value="Term, pronunciation or training sentences must be specified." />
+    <text name="DisplayName" value="Display Name" />
+    <text name="RoleUpdatedSuccessfully" value="Role updated." />
+    <text name="MatchedNodesTextsBefore" value="Matched Nodes (Before)" />
+    <text name="MatchedNodesTextsAfter" value="Matched Nodes (After)" />
+    <text name="ExtIdsBefore" value="Matched Menu Code (Before)" />
+    <text name="ExtIdsAfter" value="Matched Menu Code (After)" />
+    <text name="AgentActions" value="Agent Actions" />
+    <text name="AgentActionSettings" value="Agent Action Settings" />
+    <text name="AddAgentAction" value="Create Agent Action" />
+    <text name="AgentStateDeleted" value="Agent state has been deleted successfully." />
+    <text name="AddNewAgentAction" value="Create Agent Action" />
+    <text name="AgentActionCreatedSuccessfully" value="Agent action has been created successfully." />
+    <text name="AgentActionUpdatedSuccessfully" value="Agent action has been updated successfully." />
+    <text name="AreYouSureToDeleteAgentAction" value="Are you sure to delete agent action {0}?" />
+    <text name="AgentActionDeleted" value="Agent action has been deleted successfully." />
+    <text name="AgentStateAddedBefore" value="Agent state has already been created." />
+    <text name="AgentActionAddedBefore" value="Agent action has already been created." />
+    <text name="LanguageModelUpdated" value="Language model has been updated." />
+    <text name="PleaseEnterAWord" value="A word must be specified." />
+    <text name="TrainingSentencesCannotBeEmpty" value="Training sentence must be specified." />
+    <text name="PronounciationCannotBeEmpty" value="Pronunciation must be specified." />
+    <text name="PronunciationWriteRules" value="Pronunciations can be written splitted by “,” or “;” ." />
+    <text name="TrainingSentences" value="Training Sentences" />
+    <text name="PleaseProvideRecognitionId" value="Recognition Id must be specified." />
+    <text name="OperationErrorTryAnotherTime" value="An error has occured. Try again later." />
+    <text name="FileNotFound" value="File not found." />
+    <text name="DictionaryManagement" value="Dictionary Management" />
+    <text name="EnterAtLeastTwoCharsForSearch" value="Enter at least two characters for search..." />
+    <text name="EnterAtLeastOneCharsForSearch" value="Enter at least one character for search..." />
+    <text name="ThereIsNoResult" value="Result not found." />
+    <text name="Word" value="Word" />
+    <text name="Pronunciation" value="Pronunciation" />
+    <text name="Term" value="Term" />
+    <text name="LanguageModelUpdate" value="Language Model Update" />
+    <text name="Updating" value="Updating..." />
+    <text name="TreeIdMustBeBiggerThanZero" value="Tree Id must be greater than zero." />
+    <text name="WordCanNotBeEmpty" value="Word must be specified." />
+    <text name="Logout" value="Logout" />
+    <text name="Ok" value="OK" />
+    <text name="MyProfile" value="My Profile" />
+    <text name="AgentStateDurationsReport" value="State &amp; Duration Report" />
+    <text name="SearchServiceSettings" value="Search Settings" />
+    <text name="Pronounciation" value="Pronunciation" />
+    <text name="RecommendedPronounciation" value="Recommended Pronunciation" />
+    <text name="LanguageModelUpdatedButInfiromingMrcpFailed" value="Language model has been updated but analysis servers could not be updated." />
+    <text name="AlreadyExists" value="“{0}” already exists." />
+    <text name="EditWord" value="Edit Word" />
+    <text name="AddNewWord" value="Add Word" />
+    <text name="NewWordAddedSuccessfully" value="Word added successfully." />
+    <text name="Downloads" value="Downloads" />
+    <text name="AgentApplication" value="Agent Application" />
+    <text name="IntegrationGuide" value="Integration Guide" />
+    <text name="LanguageModelAndDictionaryEdit" value="Language Model &amp; Dictionary Edit" />
+    <text name="EditExistingWord" value="Edit Word" />
+    <text name="UpdateNow" value="Update Now" />
+    <text name="DublicateWordError" value="“{0}” has already been added." />
+    <text name="CallSteering.TreeList.LanguageModelEditPermission" value="Edit Language Model &amp; Dictionary" />
+    <text name="CallSteering.TreeList.AnnounceListEditPermission" value="Prompt List - Edit" />
+    <text name="EnableGramerChange" value="Enable Model Change" />
+    <text name="AWordCannotContainASpace" value="Word may not contain space character." />
+    <text name="ApplicationSettings" value="Application Settings" />
+    <text name="Settings" value="Settings" />
+    <text name="AppLogs" value="Application Logs" />
+    <text name="DownloadLogFiles" value="Download Log Files" />
+    <text name="LastWrittenLogs" value="Last Written Application Logs" />
+    <text name="EditAgentActions" value="Edit Agent Action" />
+    <text name="CreateAgentAction" value="Create Agent Action" />
+    <text name="EditAgentStates" value="Edit Agent State" />
+    <text name="CreateAgentState" value="Create Agent State" />
+    <text name="AreYouSureToUpdateAgentAction" value="Updating agent action requires another update on client system (IVR, mobil application...etc.). Are you sure to update agent action {0}?" />
+    <text name="MakeActive" value="Activate" />
+    <text name="MakePassive" value="Make Passive" />
+    <text name="Active" value="Active" />
+    <text name="Passive" value="Passive" />
+    <text name="ReportLoggedOut" value="Seamless Agent logged out notification" />
+    <text name="ReportLoggedOut_Description" value="Seamless Agent logged out notification report" />
+    <text name="ReportQueueTimeOut" value="Queue timeout notification of Seamless Agent" />
+    <text name="ReportQueueTimeOut_Description" value="Queue timeout notification report of Seamless Agent" />
+    <text name="ReportSeamlessAgentTimeOut" value="On screen timeout notification of Seamless Agent" />
+    <text name="ReportSeamlessAgentTimeOut_Description" value="On screen timeout notification report of Seamless Agent" />
+    <text name="ReportHealthCheck" value="If an error occurs in the system, notification will be sent to the e-mail address" />
+    <text name="ReportHealthCheck_Description" value="Possible Errors: Database connection failure, failure to write audit logs, critically low disk space (if less than 5% of total storage)." />
+    <text name="Max1WeekExcelReport" value="Excel report can be exported for maximum one week interval." />
+    <text name="Max1MonthCanBeReported" value="Raport can be exported for maximum one month interval." />
+    <text name="TermList" value="Term List" />
+    <text name="AdjacenciesList" value="Adjacencies List" />
+    <text name="DeleteConfirmation" value="Are you sure to delete?" />
+    <text name="Definition" value="Definition" />
+    <text name="Refresh" value="Refresh" />
+    <text name="AnErrorOccurred" value="An error occurred and logged for system administrators." />
+    <text name="OperationSuccessful" value="Operation is successful." />
+    <text name="NothingToReport" value="There is not any data to report for this request." />
+    <text name="DownloadAllAudioFiles" value="Download All Audio Files" />
+    <text name="EditGrammerNamePermission" value="Edit Model Name" />
+    <text name="Customer" value="Customer" />
+    <text name="DailyCallCount" value="Sessions" />
+    <text name="Recognition" value="Recognition" />
+    <text name="Recognitions" value="Recognitions" />
+    <text name="ViewMore" value="View More" />
+    <text name="YouCantDownloadMoreThan" value="More than “{0}” files may not be downloaded." />
+    <text name="Dialog" value="Dialog" />
+    <text name="Dialogs" value="Dialogs" />
+    <text name="DoYouWantToUpdateLanguageModel" value="Are you sure to update language model?" />
+    <text name="DoYouWantToReturnOldBackup" value="Are you sure to return to backup model?" />
+    <text name="Statistics_CustomerCount_Description" value="Shows distinct customer count for filtering criteria." />
+    <text name="Statistics_CallCount_Description" value="Shows total session count for filtering criteria." />
+    <text name="Statistics_DialogCount_Description" value="A dialog is terminated when the customer is directed to a leaf menu. A new dialog (within the existing session) is started if a reset request is sent by the client(Ivr, mobil application...etc.) during an already ongoing dialog." />
+    <text name="Statistics_RecognitionCount_Description" value="Shows total recognition count for filtering criteria. There may be multiple recognitions in a session or dialog." />
+    <text name="GettingLastUpdateTime" value="asdasd" />
+    <text name="TreeNotFound" value="Tree has not been found." />
+    <text name="Help" value="Help" />
+    <text name="AgentUsed" value="Agent Assisted" />
+    <text name="AgentNotUsed" value="Agent Not Asissted" />
+    <text name="DirectRecognitionCount" value="Direct Match" />
+    <text name="MultipleRecognitionCount" value="Multiple Match" />
+    <text name="SuccessRates" value="Success Rates" />
+    <text name="SuccessRate" value="Success Rate" />
+    <text name="ActionOfAgentStatistics" value="Agent Action Statistics" />
+    <text name="ActionsOfAgent" value="Agent Actions" />
+    <text name="CustomerConfirmation_Verified" value="Verified" />
+    <text name="CustomerConfirmation_Rejected" value="Rejected" />
+    <text name="CustomerConfirmation_Other" value="Other" />
+    <text name="CustomerConfirmation_Unasked" value="Unasked" />
+    <text name="CustomerConfirmation_OrUnknown" value="or Unknown" />
+    <text name="CustomerConfirmationStatistics" value="Confirmation Statistics" />
+    <text name="ConfirmationQuestions" value="Confirmation Questions" />
+    <text name="DirectMatch" value="Direct Match" />
+    <text name="SestekInc" value="Sestek Inc." />
+    <text name="ExportAgentStateDurationReport" value="State Based Agent Statistics - Export to Excel" />
+    <text name="AutomaticClearSearchServiceCache" value="Automatic clear search service cache" />
+    <text name="AutomaticClearSearchServiceCache_Description" value="Automatically clear search service cache if the setting is set to true" />
+    <text name="Try1Count" value="1. Try" />
+    <text name="Try2Count" value="2. Try" />
+    <text name="Try3Count" value="3. Try" />
+    <text name="Try4PlusCount" value="4 and More" />
+    <text name="Hourly" value="Hourly" />
+    <text name="Daily" value="Daily" />
+    <text name="PageMode" value="Page Mode" />
+    <text name="VerificationMode" value="Verification Mode" />
+    <text name="ReportingMode" value="Reporting Mode" />
+    <text name="AllVerificationViewStates" value="All Verification View States" />
+    <text name="SystemMenuVerification" value="System - Menu Verification" />
+    <text name="SystemTextVerification" value="System - Text Verification" />
+    <text name="AgentMenuVerification" value="Agent - Menu Verification" />
+    <text name="VerificationState" value="Verification State" />
+    <text name="Verify" value="Verify" />
+    <text name="VerifyAll" value="Verify All" />
+    <text name="List" value="List" />
+    <text name="PlayAudioFileTooltip" value="Plays audio file without voiceless parts." />
+    <text name="PlayBeforeVadAudioFileTooltip" value="Plays audio file with voiceless parts." />
+    <text name="DownloadAudioFileTooltip" value="Downloads audio file." />
+    <text name="VerificationState_NotControlled" value="Uncontrolled" />
+    <text name="VerificationState_Approved" value="Approved" />
+    <text name="VerificationState_Changed" value="Changed" />
+    <text name="MenuVerified" value="Menu Verified" />
+    <text name="TextVerified" value="Text Verified" />
+    <text name="AgentMenuVerified" value="Agent Menu Verified" />
+    <text name="EngineMenuVerified" value="System Menu Verified" />
+    <text name="AgentTextVerified" value="Agent Text Verified" />
+    <text name="EngineTextVerified" value="System Text Verified" />
+    <text name="VerifiedText" value="Verified Text" />
+    <text name="VerifiedNodesTexts" value="Verified Nodes" />
+    <text name="NotVerifiedText" value="Not Verified Text" />
+    <text name="NotVerifiedNodesTexts" value="Not Verified Nodes" />
+    <text name="SentToServer" value="Sent to Server" />
+    <text name="DidntChecked" value="Unchecked" />
+    <text name="TextApprovedMenuChanged" value="Text Approved, Menu Changed" />
+    <text name="TextChangedMenuApproved" value="Text Changed, Menu Approved" />
+    <text name="TextAndMenuApproved" value="Text and Menu Approved" />
+    <text name="TextAndMenuChanged" value="Text and Menu Changed" />
+    <text name="SelectAll" value="Select All" />
+    <text name="SelectNone" value="Select None" />
+    <text name="Reset" value="Reset" />
+    <text name="NoneSelected" value="None Selected" />
+    <text name="ThisFieldCantContainWhiteSpace" value="{0} cannot contain whitespace." />
+    <text name="TgTooltipText" value="Confidence Value" />
+    <text name="AgentPerson" value="Agent Name" />
+    <text name="AgentUsage" value="Agent Usage" />
+    <text name="WithAgent" value="With Agent" />
+    <text name="WithoutAgent" value="Without Agent" />
+    <text name="AgentVerificationState" value="Agent Verification" />
+    <text name="EngineVerificationState" value="Engine Verification" />
+    <text name="CreationTimeLabel" value="Creation" />
+    <text name="LastModificationTimeLabel" value="Update" />
+    <text name="Current" value="Current" />
+    <text name="TheseItemsAddedBefore" value="These items have already been added." />
+    <text name="Filters" value="Filters" />
+    <text name="ValidationDate" value="Validation Date" />
+    <text name="Validation" value="Validation" />
+    <text name="Validated" value="Validated" />
+    <text name="NotValidated" value="NotValidated" />
+    <text name="Menus" value="Menus" />
+    <text name="ExtId" value="ExtId" />
+    <text name="AnnounceFile" value="Prompt File" />
+    <text name="AnnounceFileName" value="Prompt File Name" />
+    <text name="AnnounceFileDownload" value="Download Prompt File" />
+    <text name="AnnounceFileUpload" value="Upload New Prompt File (*.wav)" />
+    <text name="AnnounceText" value="Prompt Text" />
+    <text name="AnnounceTexts" value="Prompt Texts" />
+    <text name="AnnounceTextInfo" value="You may use the #menu tag in the prompt text as a placeholder for menu title." />
+    <text name="PleaseMakeSureYourFileIsInWavFormat" value="Voice file must be in wav format." />
+    <text name="FileUploadCompleted" value="File upload has been completed." />
+    <text name="DownloadCurrentAnnounceFile" value="Download Prompt File" />
+    <text name="IfYouWantToUploadAnnounceFileFirstDefineMenuCode" value="Menu code must be entered before uploading prompt file." />
+    <text name="DictionaryManagementSection" value="Dictionary Management" />
+    <text name="DictionaryTermEditSection" value="Dictionary-Term Management" />
+    <text name="ResultsFound" value="results found" />
+    <text name="ThereIsNoFileForThatEntry" value="No file found for specified entry." />
+    <text name="ThereIsNoEntryForThis" value="No data found for specified entry." />
+    <text name="NoTermFound" value="No term found for specified entry." />
+    <text name="PleaseEnterMenuText" value="Enter a menu text." />
+    <text name="PleaseEnterExtId" value="Enter a menu code." />
+    <text name="ThereIsNoAccessForIIS" value="IIS must have editing permission for necessary paths." />
+    <text name="TheWordNotFoundInDictionaryCombinedTxtFile" value=" word not found in dictionary.combined.dic. It should be added using Dictionary Management page." />
+    <text name="YouAreChangingTheGramerNameDoYouWantToContinue" value="Changing model name requires a manual update on client system(IVR, mobil application...etc.). Do you want to continue?" />
+    <text name="YouAreChangingDefaultStatusDoYouWantToContinue" value="You are changing the “Default” status of the tree version which might have an impact on application behaviour. Do you want to continue?" />
+    <text name="NothingToExport" value="There is nothing to export for specified filter settings." />
+    <text name="ExportRecognitionStatisticsReport" value="Export Excel Report For Recognition Statistics" />
+    <text name="ExportRecognitionBasedAgentStatisticsReport" value="Export Excel Report For Recognition Based Agent Statistics" />
+    <text name="ClearSearchServiceCacheInfo" value="Search service cache has been cleared successfully." />
+    <text name="FromTopMenu" value="from top menu" />
+    <text name="AgentScreen" value="Agent Screen" />
+    <text name="CurrentOperationHasTooMuchDataToProcess" value="Current operation has too much data to process. Filter scope must be decreased." />
+    <text name="RestartService" value="Restart Service" />
+    <text name="RestartServiceSettings" value="Restart Service Settings" />
+    <text name="RestartedServiceSuccessfully" value="Sestek Call Steering Windows Service has been restarted successfully." />
+    <text name="AreYouSureToRestartWinService" value="Are you sure to restart {0}?" />
+    <text name="CanNotBeRestartedWinService" value="The service cannot be restarted. Retry after a few minutes. Inform system administrator if the problem persists." />
+    <text name="FailedToGetWinServiceStartTime" value="Start time of the service cannot be obtained. Retry after a few minutes. Inform system administrator if the problem persists." />
+    <text name="Action" value="Action" />
+    <text name="AnnounceList" value="Prompt List" />
+    <text name="MultipleMatchedAnnounces" value="Multiple Match Prompts" />
+    <text name="CustomMultipleMatchedAnnounces" value="Custom Multiple Match Prompts" />
+    <text name="AnnounceManagement" value="Prompt Edit" />
+    <text name="GeneralAnnounces" value="General Prompts" />
+    <text name="AddNewAnnounce" value="Create Prompt" />
+    <text name="EditAnnounce" value="Edit Prompt" />
+    <text name="AgentScreen_WaitingNewRequestMessage" value="Waiting for a new recognition request from the system..." />
+    <text name="PLAY" value="Play" />
+    <text name="AgentScreen_OK" value="OK" />
+    <text name="AgentScreen_ConnectedToServer" value="Connected to the server." />
+    <text name="AgentScreen_DisconnectedFromServer" value="Server connection could not be established." />
+    <text name="AgentScreen_ConnectingToServer" value="Connecting to the server..." />
+    <text name="AgentScreen_InvalidInputMessage" value="Entry is invalid." />
+    <text name="AgentScreen_IvrClientDisconnectedMessage" value="Recognition request has been cancelled." />
+    <text name="AgentScreen_RecognitionTimeoutMessage" value="You could not answer the request in specified time. Request has been cancelled and your status is changed to “Break”." />
+    <text name="AgentScreen_Document_Title" value="New..." />
+    <text name="AgentFreeTalkRecognitionTextChangeEnabled" value="Agent recognition text changing has been enabled." />
+    <text name="HowCanIHelpYou" value="How can I help you?" />
+    <text name="ErrorOccurred" value="An error has occured. Try again later." />
+    <text name="ICouldNotFindMenu" value="I could not find a menu for requested operation." />
+    <text name="IUnderstoodMultipleOperation" value="I could not find an exact match for your request. " />
+    <text name="IFoundMenu" value="There are {0} matching menus. Could you give more detail?" />
+    <text name="IUnderstood" value="I understand that you want something related to {0}. " />
+    <text name="PleaseSelectFollowingItems" value="Please select one of the following items:" />
+    <text name="Valid" value="Valid" />
+    <text name="ValidationState" value="Validation State" />
+    <text name="PlayAudioFile" value="Play the audio file" />
+    <text name="DoYouWantToDeleteThisRecord" value="Are you sure to delete specified record?" />
+    <text name="DoYouWantToDeleteThisRecordAudioFileWillBeDeletedToo" value="Audio file will be deleted too. Are you sure to delete specified record?" />
+    <text name="DoYouWantVerifyAllRecords" value="This may take a while. Are you sure to verify all records?" />
+    <text name="Grouping" value="Grouping" />
+    <text name="Group" value="Group" />
+    <text name="None" value="None" />
+    <text name="True" value="True" />
+    <text name="False" value="False" />
+    <text name="UserIsNotAuthenticatedBySystem" value="User has not been authenticated." />
+    <text name="InvalidPassword" value="The password has not been verified." />
+    <text name="PasswordIsVerified" value="The password has been verified." />
+    <text name="SecureAdminModeOff" value="Secure admin mode off." />
+    <text name="UnableToConnectMrcpUpdateManager" value="Analysis Update Manager cannot be connected." />
+    <text name="Documents" value="Documents" />
+    <text name="RecordDeletedSuccessfully" value="Record has been deleted successfully." />
+    <text name="RecordUpdatedSuccessfully" value="Record has been updated successfully." />
+    <text name="AnnounceActions" value="Prompt Actions" />
+    <text name="AnnounceListReporting" value="Prompt List" />
+    <text name="AnnounceListPlayAudioFiles" value="Play Audio Files" />
+    <text name="AnnounceListDownloadAudioFiles" value="Download Audio Files" />
+    <text name="AnnounceListExportToExcel" value="Export To Excel" />
+    <text name="AnnounceListVerify" value="Prompt Verify" />
+    <text name="MrcpErrorListReporting" value="Nonrecognized Requests" />
+    <text name="MrcpErrorListPlayAudioFiles" value="Play Audio Files" />
+    <text name="MrcpErrorListDownloadAudioFiles" value="Download Audio Files" />
+    <text name="MrcpErrorListExportExcel" value="Export To Excel" />
+    <text name="MrcpErrorList" value="Nonrecognized Requests" />
+    <text name="MrcpErrors" value="Nonrecognized Requests" />
+    <text name="MrcpErrorFilters" value="Nonrecognized Request Filters" />
+    <text name="MrcpErrorCode" value="Reply Code" />
+    <text name="MrcpErrorMessage" value="Reply Message" />
+    <text name="CsUser" value="User" />
+    <text name="GroupNumberByDialogIdTooltip" value="Group number for same session recognition serial." />
+    <text name="RestartDialog" value="Restart Dialog" />
+    <text name="EnterExpressionForDialog" value="Enter an expression for dialog..." />
+    <text name="MrcpErrorId" value="Reply Id" />
+    <text name="Computer" value="Computer" />
+    <text name="MrcpErrorStatistics" value="Nonrecognized Requests" />
+    <text name="MrcpErrorType" value="Reply Code" />
+    <text name="NoInputTimeout" value="No Input Timeout" />
+    <text name="Fail" value="Failed" />
+    <text name="Stopped" value="Stopped" />
+    <text name="RecognitionTimeout" value="Recognition Timeout" />
+    <text name="Noise" value="Noise" />
+    <text name="UserAlreadyLoginMessage" value="User has already been logged in on another session." />
+    <text name="CouldNotFoundTheUserMessage" value="User could not be found." />
+    <text name="EnterAnnounceText" value="Enter prompt text..." />
+    <text name="LdapUserRoleManagement" value="LDAP Group Role Assignment" />
+    <text name="LdapUserRoleManagementAdd" value="Add Assignment" />
+    <text name="LdapUserRoleManagementEdit" value="Edit Assignment" />
+    <text name="LdapUserRoleManagementDelete" value="Delete Assignment" />
+    <text name="Announces" value="Prompts" />
+    <text name="NewAnnounce" value="Add Prompts" />
+    <text name="CallerNumberCustomerIdAndCallIdMustBeBiggerThan" value="Caller Number, Customer No and Session Id values must be at least 3 characters long." />
+    <text name="AnnounceTextAndFile" value="Prompt Text and File (.wav)" />
+    <text name="AnnounceFileUploadWithNotice" value="Upload New Prompt File (*.wav). Audio file format must be in compliance with corporate standards." />
+    <text name="NotUploadVoiceFile" value="Audio file could not be loaded." />
+    <text name="ExportTree" value="Export" />
+    <text name="ImportTree" value="Import Tree" />
+    <text name="ExportingTree" value="Packing tree for export..." />
+    <text name="ImportingTree" value="Importing tree..." />
+    <text name="ImportExportTreePermission" value="Import/Export Tree" />
+    <text name="File" value="File" />
+    <text name="DragToUpload" value="Drop files here or click to upload." />
+    <text name="Retry" value="Retry" />
+    <text name="YouCanSelectOnlyOneFile" value="Only one file can be uploaded." />
+    <text name="FileUploadResponseError" value="Error occured with the status code: {{statusCode}}." />
+    <text name="FileUploadInvalidFileType" value="Specified file format is invalid." />
+    <text name="FileUploadFileTooBig" value="File size ({{filesize}} Mb) exceeds the allowed limit. Max file size is {{maxFilesize}} Mb." />
+    <text name="FileUploadFallbackText" value="Do uploading via form." />
+    <text name="FileUploadFallbackMessage" value="Current browser does not support drag and drop file uploads." />
+    <text name="FileUploadDefaultMessage" value="Drop the file here." />
+    <text name="CancelConfirm" value="Do you want to cancel?" />
+    <text name="DragToUploadTree" value="Drop your tree file here or click to upload." />
+    <text name="TreeImportedSuccessfully" value="Tree has been imported successfully." />
+    <text name="DateFormatHourSeconds" value="MM.dd.yyyy HH:mm:ss" />
+    <text name="ConfirmTreeExport" value="Latest version of “{0}” tree will be exported. Average export duration is a few minutes and may change due to size of the tree files. Do you want to continue?" />
+    <text name="TreeCreationDate" value="Tree creation" />
+    <text name="Attention" value="Attention!" />
+    <text name="TreeImportIncompatibleVersion" value="This tree has been exported from Call Steering v{0}, current version is {1} therefore versions are not compatible." />
+    <text name="AnnounceCategory_SelectCategory" value="Select a category" />
+    <text name="AnnounceCategory_Welcome" value="Welcome" />
+    <text name="AnnounceCategory_ExactMatch" value="Exact Match" />
+    <text name="AnnounceCategory_BinaryMatch" value="Binary Match" />
+    <text name="AnnounceCategory_TripleMatch" value="Triple Match" />
+    <text name="AnnounceCategory_FoursomeMatch" value="Foursome Match" />
+    <text name="AnnounceCategory_MultipleMatch" value="Multiple Match" />
+    <text name="AnnounceCategory_ParentMatch" value="Parent Match" />
+    <text name="AnnounceCategory_GeneralParentMatch" value="General Parent Match" />
+    <text name="AnnounceCategory_ParentMatchWithTwoChild" value="Parent Match With Two Children" />
+    <text name="AnnounceCategory_ParentMatchWithThreeChild" value="Parent Match With Three Children" />
+    <text name="AnnounceCategory_ParentMatchWithFourChild" value="Parent Match With Four Children" />
+    <text name="AnnounceCategory_NoMatch" value="No Match" />
+    <text name="AnnounceCategory_NoVoice" value="No Voice" />
+    <text name="AnnounceCategory_NoVoiceRepeat" value="No Voice Repeat" />
+    <text name="AnnounceCategory_LowConfidence" value="Low Confidence" />
+    <text name="AnnounceCategory_LowConfidenceRepeat" value="Low Confidence Repeat" />
+    <text name="AnnounceCategory_Error" value="Error" />
+    <text name="AnnounceCategory_ConnectionError" value="Connection Error" />
+    <text name="Category" value="Category" />
+    <text name="Text" value="Text" />
+    <text name="FileName" value="File Name" />
+    <text name="MenuSelected" value="Menu Selected" />
+    <text name="RequiredField" value="{0} must be specified." />
+    <text name="MakeNewTreeVersion" value="Add as new version of the tree" />
+    <text name="UpdateLMTimeout" value="Updating Language Model timed out. Try increasing timeout value in configuration." />
+    <text name="AnnounceTags" value="Prompt Tags" />
+    <text name="AnnounceTagName" value="Tag name" />
+    <text name="AnnounceTagDescription" value="Description" />
+    <text name="AnnounceTagAddNew" value="Add New Prompt Tag" />
+    <text name="AnnounceTagNew" value="New Prompt Tag" />
+    <text name="Required" value="Required" />
+    <text name="AnnounceTagEditPermission" value="Prompt Tag Update" />
+    <text name="AnnounceTagDeletePermission" value="Prompt Tag Delete" />
+    <text name="AnnounceTagViewPermission" value="Prompt Tag View" />
+    <text name="AnnounceTagCreatePermission" value="Prompt Tag Create" />
+    <text name="AgentDecisionTypeAnnounces" value="Agent Action Prompts" />
+    <text name="AdtAnnounce_SelectDecType" value="Select an action type" />
+    <text name="AdtAnnounce_SelectActionType" value="Select an action type" />
+    <text name="SignalRConnectionPort" value="Windows service connection port" />
+    <text name="SignalRUrlSchema" value="Windows service connection url schema" />
+    <text name="CustomAnnounces" value="Custom Prompts" />
+    <text name="EnterCustomAnnonceText" value="Enter custom prompt text..." />
+    <text name="EnterAnnounceTag" value="Enter prompt tag..." />
+    <text name="UploadCustomAnnounceFile" value="Upload custom prompt file (*.wav) ..." />
+    <text name="FileUploaded" value="File uploaded." />
+    <text name="CustomAnnounce" value="Custom prompt" />
+    <text name="CustomAnnounceText" value="Custom prompt text" />
+    <text name="AddAnnouncePart" value="Add Prompt Part" />
+    <text name="EnterDynamicField" value="Enter dynamic field..." />
+    <text name="NoDynamicField" value="There is no such dynamic field!" />
+    <text name="DynamicFieldsEditPermission" value="Dynamic Fields Update" />
+    <text name="DynamicFieldsDeletePermission" value="Dynamic Fields Delete" />
+    <text name="DynamicFieldsViewPermission" value="Dynamic Fields View" />
+    <text name="DynamicFieldsCreatePermission" value="Dynamic Fields Create" />
+    <text name="DynamicFieldCodeName" value="Code Name" />
+    <text name="DynamicFieldPlaceHolder" value="Place Holder" />
+    <text name="AddNewDynamicField" value="Add New Dynamic Field" />
+    <text name="NotAuthorized" value="Not authorized for this operation!" />
+    <text name="DynamicFieldValuesCount" value="Dynamic Fields" />
+    <text name="NewDynamicFieldValue" value="Add Values" />
+    <text name="DynamicFieldValues" value="Dynamic Field Values" />
+    <text name="DynamicFieldValuesInputRule" value="Enter a value for each line." />
+    <text name="DynamicFieldCodeNamePlaceHolderCannotBeEmpty" value="Placeholder cannot be empty!" />
+    <text name="DynamicFieldPlaceHolderMustStartWithAt" value="Placeholder must start with @" />
+    <text name="DynamicFieldDublicateCodeName" value="Placeholder has been previously used. Please try another name." />
+    <text name="MissingAnnounceTag" value="Custom prompt tag is missing! List of all custom prompt tags is located in Application Settings &gt; Prompt Tags." />
+    <text name="InvalidAnnounceTag" value="Invalid custom prompt tag! Type at least two chars to list prompt tags. List of all custom prompt tags is located in Application Settings &gt; Prompt Tags." />
+    <text name="SelectDynamicFields" value="Select dynamic fields" />
+    <text name="DynamicFieldsSelected" value="dynamic fields selected" />
+    <text name="IgnoreFromHistory" value="Ignore From History" />
+    <text name="EmtpyAnnounceText" value="Empty prompt text on row {0}!" />
+    <text name="ConfirmationDynamicField" value="Confirmation field" />
+    <text name="CustomerHasConfirmation" value="Customer Confirmation" />
+    <text name="CustomerHasConfirmation_Yes" value="Confirmed" />
+    <text name="CustomerHasConfirmation_No" value="Not Confirmed" />
+    <text name="AutomaticallyAddedDynamicFieldInfo" value="Dynamic fields starting with “@confirmation” are special fields for confirmation feature. One of these fields is automatically added to a tree depending on its Recognition Language but will not be listed among other dynamic fields of tree. Customer confirmation feature will not be available if you remove this dynamic field from a tree." />
+    <text name="AddDynamicFieldSuffixKey" value="- add suffix -" />
+    <text name="SuffixKeyInfo" value="Suffix" />
+    <text name="NoSuffixKey" value="- no suffix -" />
+    <text name="DynamicFieldExistsOnNode" value="Dynamic field exists on node." />
+    <text name="DynamicFieldMinMaxCantBeZero" value="Both min and max values cannot be zero." />
+    <text name="DynamicFieldMinMaxValuesExceeded" value="Min or max value is exceeded." />
+    <text name="DynamicFieldUsedInNodes" value="Dynamic field “{0}” is used in node “{1}”. Cannot continue." />
+    <text name="DynamicFieldUsedInAnnounceParts" value="Dynamic field “{0}” is used in node “{1}” prompts. Cannot continue." />
+    <text name="DynamicFieldUsedInTerms" value="Dynamic field “{0}” is used in node “{1}” terms. Cannot continue." />
+    <text name="AnnounceTagExists" value="Tag exists in node “{0}” of tree “{1}”, cannot be deleted." />
+    <text name="AnnounceTagExistsInTree" value="Tag exists in tree “{0}”, cannot be deleted." />
+    <text name="AnnounceTagNameExists" value="A prompt tag with the same name exists, cannot save." />
+    <text name="AgentActionUsedInAnnounce" value="Agent action is used in Agent Action Prompts of the tree, cannot be deleted." />
+    <text name="WindowsServiceDoesntExist" value="Windows service is missing on the server! Check the existence of service with the name “{0}”." />
+    <text name="ErrorOccuredWhileRestartingWindowsService" value="An error occured while restarting windows service!" />
+    <text name="WindowsServiceSuccessfullyRestarted" value="Windows service successfully restarted." />
+    <text name="WindowsServiceRestartTimedOut" value="Windows service could not be restarted in a timely manner. Check event log for service startup errors." />
+    <text name="NotCsUserForAgentApplication" value="This user cannot perform this action. (Admin users cannot act as agent.)" />
+    <text name="DynamicFieldUsedOnTree" value="Dynamic field is used in tree “{0}”, cannot be deleted." />
+    <text name="MultipleMatchAnnounceAddedBefore" value="Multiple Match Prompt has been added to same set of matches before. Do you want to add again?" />
+    <text name="NodeIsUsedInMultipleMatchAnnounce" value="Node or its children are used in a Multiple Match Prompt having text: “{0}”, cannot be deleted." />
+    <text name="IsIgnoreWhenMultipleMatch" value="Ignore When Multiple Match" />
+    <text name="IsDefaultVersion" value="Default tree" />
+    <text name="SetTreeAsDefaultPermission" value="Set Tree As Default Version" />
+    <text name="NoDefaultTreeVersion" value="The tree does not have a version assigned as default. You cannot remove the “Default Tree” designation from this version!" />
+    <text name="NoDefaultTreeVersionWithoutPermission" value="The tree does not have a version assigned as default. You do not seem to have “Set Tree As Default Version” permission. Contact your administrator to get this permission." />
+    <text name="EnterAgentActionName" value="Enter Agent Action name" />
+    <text name="TreeAgentActionsSelected" value="Agent Actions selected" />
+    <text name="SelectTreeAgentActions" value="Select Agent Actions" />
+    <text name="GrantAgentPermission" value="Grant Assistants to tree" />
+    <text name="EnterAgentName" value="Enter Agent name" />
+    <text name="TreeAgentsSelected" value="Assistants selected" />
+    <text name="SelectTreeAgents" value="Select Assistants" />
+    <text name="GrantedAgents" value="Granted Agents" />
+    <text name="CheckAll" value="Check All" />
+    <text name="UncheckAll" value="Check None" />
+    <text name="SelectionCount" value="Selection Count" />
+    <text name="SelectionOf" value="Selection Of" />
+    <text name="SearchPlaceholder" value="Filter..." />
+    <text name="ButtonDefaultText" value="Click To Select" />
+    <text name="DynamicButtonTextSuffix" value="Selected" />
+    <text name="DefaultTreeNotFound" value="There is no default version for this tree." />
+    <text name="NewVersionConfirm" value="New version of “{0}” tree will be created as “v{1}”. Do you want to continue?" />
+    <text name="AnnounceType_Normal" value="Normal" />
+    <text name="AnnounceType_Confirmation" value="Confirmation" />
+    <text name="NormalAnnounce" value="Normal prompt" />
+    <text name="ConfirmationAnnounce" value="Confirmation prompt" />
+    <text name="NoDefaultChecklistFile" value="No default checklist! You can download the default checklist when it`s uploaded." />
+    <text name="MultiSelected" value="Selected" />
+    <text name="SelectAgentDecisionType" value="Select Agent Decision Types" />
+    <text name="AgentDecisionTypesSelected" value="Agent Decision Type(s) Selected" />
+    <text name="SelectAgentVerification" value="Select Agent Verification Types" />
+    <text name="AgentVerificationsSelected" value="Agent Verification Type(s) Selected" />
+    <text name="SelectEngineVerification" value="Select Engine Verification Types" />
+    <text name="EngineVerificationsSelected" value="Engine Verification Type(s) Selected" />
+    <text name="AllowedTrees" value="Trees you can recieve sessions from" />
+    <text name="NoAllowedTrees" value="No tree!" />
+    <text name="CannotRecieveSeamlessCall" value="You are not authorized to recieve sessions from any tree! Contact your administrator to have your trees assigned." />
+    <text name="RestApiConnectionPort" value="Windows service REST API connection port" />
+    <text name="RestApiUrlSchema" value="Windows service REST API connection url schema" />
+    <text name="IsUseMenuPrompt" value="Use Menu Prompts" />
+    <text name="MissingMenuAnnounce" value="Missing menu prompt!" />
+    <text name="AddNew" value="Add New" />
+    <text name="NonAnnounceTagWarning" value="You have entered an unregistered tag! " />
+    <text name="Tags" value="Tags" />
+    <text name="NoNodeWarning" value="You have not selected any menu!" />
+    <text name="NotExistsInDictionary" value="Not exist in dictionary." />
+    <text name="ExistsInDictionary" value="Exists in dictionary." />
+    <text name="NotExistsInMatchingTerms" value="Not exist in matching Terms" />
+    <text name="ExistsInMatchingTerms" value="Exists in matching Terms" />
+    <text name="ExistsInMatchingTermsAndMatched" value="Exists in matching Terms and matched" />
+    <text name="ExistsInMatchingTermsButNotMatched" value="Exists in matching Terms, but not matched" />
+    <text name="SearchMatchingTerm" value="Matching Term" />
+    <text name="SearchMatchingPhrase" value="Matching Phrase" />
+    <text name="PromtTagInUse" value="This tag is used, usage info: {0}. First remove the tag from this prompt." />
+    <text name="PromptType" value="Prompt Type" />
+    <text name="TreePrompt" value="General Prompt" />
+    <text name="MultipleMatchPrompt" value="Multiple Match Prompt" />
+    <text name="AgentActionPrompt" value="Agent Action Prompt" />
+    <text name="NodePrompt" value="Menu Prompt" />
+    <text name="SystemPromptTag" value="System Tag" />
+    <text name="PromptTagType" value="Type" />
+    <text name="PromptCategory" value="Prompt Category" />
+    <text name="Menu" value="Menu" />
+    <text name="PromptTagCategory_None" value="None" />
+    <text name="PromptTagCategory_SearchResult" value="Search Result" />
+    <text name="PromptTagCategory_Greeting" value="Greeting" />
+    <text name="PromptTagCategory_ClientRecognitionStatus" value="Client Recognition Status" />
+    <text name="PromptTagCategory_Error" value="Error" />
+    <text name="PromptTagCategory_Confirmation" value="Confirmation" />
+    <text name="MyTrees" value="My Trees" />
+    <text name="AgentActionUsedInTree" value="Agent Action is used in tree “{0}” version {1}, cannot be set to passive." />
+    <text name="DefaultTreeCanNotBeDeleted" value="Default version cannot be deleted, set another version as default to delete." />
+    <text name="TextMayNotContainSpecialChar" value="Text may not contain special char “{0}”." />
+    <text name="RestartServiceAfterThis" value="Restart the windows service to make changes take effect." />
+    <text name="PhraseExistOnAnotherNode" value="Phrase “{0}” exists on menu “{1}”." />
+    <text name="CanNotAddWordWithAtSymbol" value="Cannot add a word starting with @ symbol." />
+  </texts>
+</localizationDictionary>
